@@ -3,13 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://s1999u2.github.io/</loc>
-    <lastmod>2023-01-01T19:58:12+01:00</lastmod>
+    <lastmod>2023-02-01T19:58:12+01:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>https://s1999u2.github.io/blog/</loc>
-    <lastmod>2023-01-01T19:58:12+01:00</lastmod>
+    <lastmod>2023-02-01T19:58:12+01:00</lastmod>
+  </url><url>
+    <loc>https://s1999u2.github.io/books-i-read-in-2022/</loc>
+    <lastmod>2023-02-01T19:58:12+01:00</lastmod>
   </url><url>
     <loc>https://s1999u2.github.io/things-i-learned-in-2022/</loc>
     <lastmod>2023-01-01T19:58:12+01:00</lastmod>
+  </url><url>
+    <loc>https://s1999u2.github.io/things-i-learned-in-2021/</loc>
+    <lastmod>2022-01-01T19:58:12+01:00</lastmod>
+  </url><url>
+    <loc>https://s1999u2.github.io/things-i-learned-in-2020/</loc>
+    <lastmod>2021-01-01T19:58:12+01:00</lastmod>
   </url>
 </urlset>
