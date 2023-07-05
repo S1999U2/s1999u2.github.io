@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Wed, 01 Feb 2023 19:58:12 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Mar 2023 20:03:03 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>https://s1999u2.github.io/annoyances/my-new-post/</link>
+      <pubDate>Sun, 05 Mar 2023 20:03:03 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/my-new-post/</guid>
+      <description>Hey, wouldn&amp;rsquo;t it be cool if Apple didn&amp;rsquo;t show the app I&amp;rsquo;m searching for both as a giant ad and as a search result? Let&amp;rsquo;s keep things simple, shall we?1
+Ads are ruining Apple&amp;rsquo;s App Store. I understand that Crunchy Bagel, the developer of the app, is not to blame. I genuinely adore Streaks and all of the other apps they offer. You should definitely check them out.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
     <item>
       <title>Books I Read in 2022</title>
       <link>https://s1999u2.github.io/books-i-read-in-2022/</link>
@@ -45,6 +55,16 @@ Hippocampal replay is a phenomenon observed in animals where sequences of cell a
       <description>In this blog post, I&amp;rsquo;ll share some of the interesting and unexpected things I came across on the internet in 2020. Without further ado, here are the 25 things that stood out to me.
 Brown is not a color, and there is no brown light 🟤🙅‍♂️🎨.
 The temperature and atmospheric pressure on Earth can vary greatly across its surface. However, there are lines around the Earth called Isothermal lines and Isobar lines where the temperature and pressure are the same.</description>
+    </item>
+    
+    <item>
+      <title>Annoyances</title>
+      <link>https://s1999u2.github.io/annoyances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/</guid>
+      <description>Annoyances Louis CK Video: Everything is amazing Advent of ChatGPT and the likes Make yourself feel old in 2011 I know technology is amazing and many things are moving at a neckbreaking speed. Still, from time to time we get frustrated with the devices and services surrounding our daily lives.
+As an homage to Annoying Technology and to blow off steam when Siri fails me in surprising new ways yet again this page is for some light hearted annoyances1.</description>
     </item>
     
   </channel>

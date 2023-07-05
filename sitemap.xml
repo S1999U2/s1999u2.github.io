@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://s1999u2.github.io/</loc>
-    <lastmod>2023-02-01T19:58:12+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2023-03-05T20:03:03+01:00</lastmod>
+  </url><url>
+    <loc>https://s1999u2.github.io/blog/annoyances/</loc>
+    <lastmod>2023-03-05T20:03:03+01:00</lastmod>
+  </url><url>
+    <loc>https://s1999u2.github.io/annoyances/</loc>
+    <lastmod>2023-03-05T20:03:03+01:00</lastmod>
+  </url><url>
+    <loc>https://s1999u2.github.io/blog/app-store/</loc>
+    <lastmod>2023-03-05T20:03:03+01:00</lastmod>
+  </url><url>
+    <loc>https://s1999u2.github.io/blog/apple/</loc>
+    <lastmod>2023-03-05T20:03:03+01:00</lastmod>
+  </url><url>
+    <loc>https://s1999u2.github.io/blog/ios/</loc>
+    <lastmod>2023-03-05T20:03:03+01:00</lastmod>
+  </url><url>
+    <loc>https://s1999u2.github.io/blog/iphone/</loc>
+    <lastmod>2023-03-05T20:03:03+01:00</lastmod>
+  </url><url>
+    <loc>https://s1999u2.github.io/annoyances/my-new-post/</loc>
+    <lastmod>2023-03-05T20:03:03+01:00</lastmod>
   </url><url>
     <loc>https://s1999u2.github.io/blog/</loc>
     <lastmod>2023-02-01T19:58:12+01:00</lastmod>
@@ -20,5 +40,7 @@
   </url><url>
     <loc>https://s1999u2.github.io/things-i-learned-in-2020/</loc>
     <lastmod>2021-01-01T19:58:12+01:00</lastmod>
+  </url><url>
+    <loc>https://s1999u2.github.io/annoyances/</loc>
   </url>
 </urlset>
