@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bug on S/1999 U 2</title>
+    <link>https://s1999u2.github.io/blog/bug/</link>
+    <description>Recent content in Bug on S/1999 U 2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
+    <lastBuildDate>Fri, 02 Jun 2023 22:12:32 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/blog/bug/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS 16.5 is Still Buggy</title>
+      <link>https://s1999u2.github.io/annoyances/ios_16_rotation/</link>
+      <pubDate>Fri, 02 Jun 2023 22:12:32 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/ios_16_rotation/</guid>
+      <description>iOS 16.5 is Still Buggy After 16 years of working (more or less) flawlessly, iOS 16 breaks basic functionalities. With iOS 16.5 we&amp;rsquo;re 8 months into the iOS 16 release
+Screen rotation is still broken in iOS 16.5. </description>
+    </item>
+    
+  </channel>
+</rss>

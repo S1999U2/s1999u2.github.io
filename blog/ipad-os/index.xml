@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iPad OS on S/1999 U 2</title>
+    <link>https://s1999u2.github.io/blog/ipad-os/</link>
+    <description>Recent content in iPad OS on S/1999 U 2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
+    <lastBuildDate>Thu, 27 Apr 2023 08:55:00 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/blog/ipad-os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App Store Dark Patterns</title>
+      <link>https://s1999u2.github.io/annoyances/app_store_ads_3/</link>
+      <pubDate>Thu, 27 Apr 2023 08:55:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/app_store_ads_3/</guid>
+      <description>Services are Apples Next Big Business No, I didn&amp;rsquo;t want notifications the first time you asked. Or the second time. So no, I still don&amp;rsquo;t want any notifications, even if you put them inline with the content.
+Apple sneakily trying to spam me. </description>
+    </item>
+    
+  </channel>
+</rss>

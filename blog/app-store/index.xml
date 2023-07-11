@@ -7,15 +7,58 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Sun, 05 Mar 2023 20:03:03 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/blog/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 08:21:00 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/blog/app-store/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>App Store Ads</title>
-      <link>https://s1999u2.github.io/annoyances/app_store_ads/</link>
-      <pubDate>Sun, 05 Mar 2023 20:03:03 +0100</pubDate>
+      <title>Apple&#39;s Privileges</title>
+      <link>https://s1999u2.github.io/annoyances/app_store_ads_4/</link>
+      <pubDate>Tue, 30 May 2023 08:21:00 +0100</pubDate>
       
-      <guid>https://s1999u2.github.io/annoyances/app_store_ads/</guid>
-      <description>Ads Are Ruining the App Store Hey, wouldn&amp;rsquo;t it be cool if Apple didn&amp;rsquo;t show the app I&amp;rsquo;m searching for both as a giant ad and as a search result? Let&amp;rsquo;s keep things simple, shall we?1
-Ads are ruining Apple&amp;rsquo;s App Store. I understand that Crunchy Bagel, the developer of the app, is not to blame. I genuinely adore Streaks and all of the other apps they offer. You should definitely check them out.</description>
+      <guid>https://s1999u2.github.io/annoyances/app_store_ads_4/</guid>
+      <description>Apple&amp;rsquo;s Privileges Since iOS and the App Store are Apple&amp;rsquo;s own platforms it gets special privileges and doesn&amp;rsquo;t have to follow its own rules. Ever seen any third-party app getting such a nice screen asking for permissions?
+And how about the dark pattern highlighting the Enable Notifications…
+Also: Not Now? How about never?
+Apple gets special treatment when asking for permissions. </description>
+    </item>
+    
+    <item>
+      <title>App Store Dark Patterns</title>
+      <link>https://s1999u2.github.io/annoyances/app_store_ads_3/</link>
+      <pubDate>Thu, 27 Apr 2023 08:55:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/app_store_ads_3/</guid>
+      <description>Services are Apples Next Big Business No, I didn&amp;rsquo;t want notifications the first time you asked. Or the second time. So no, I still don&amp;rsquo;t want any notifications, even if you put them inline with the content.
+Apple sneakily trying to spam me. </description>
+    </item>
+    
+    <item>
+      <title>App Store Ads for Installed Apps</title>
+      <link>https://s1999u2.github.io/annoyances/app_store_ads_2/</link>
+      <pubDate>Sun, 26 Mar 2023 14:37:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/app_store_ads_2/</guid>
+      <description>Apple Knows How to Make the App Store a Premium Experience First, Apple is explicitly showing me something I&amp;rsquo;m not looking for.
+Second, Apple knows Audible is already installed and decides to show me the ad anyway.
+Apple Knows How to Make the App Store a Premium Experience. </description>
+    </item>
+    
+    <item>
+      <title>App Store Ads for the Top Result</title>
+      <link>https://s1999u2.github.io/annoyances/app_store_ads_1/</link>
+      <pubDate>Sun, 05 Mar 2023 19:30:03 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/app_store_ads_1/</guid>
+      <description>Ads Are Ruining the App Store Hey, wouldn&amp;rsquo;t it be cool if Apple didn&amp;rsquo;t show the app I&amp;rsquo;m searching for both as a giant ad and as a search result?1
+Ads are ruining Apple&amp;rsquo;s App Store. I understand that Crunchy Bagel, the app developer, is not to blame. I genuinely adore Streaks and all of the other apps they offer. You should definitely check them out.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
+    <item>
+      <title>OpenVPN Dark Pattern</title>
+      <link>https://s1999u2.github.io/annoyances/open_vpn_rating/</link>
+      <pubDate>Thu, 01 Dec 2022 08:57:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/open_vpn_rating/</guid>
+      <description>OpenVPN Dark Pattern Okay, so giving the OpenVPN app five stars takes me straight to the App Store. But for anything less, they want me to &amp;ldquo;take a survey&amp;rdquo; 🥵.
+Sure, rate the app. No way, Jose, take a survey. </description>
     </item>
     
   </channel>

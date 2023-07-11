@@ -7,25 +7,206 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Sun, 05 Mar 2023 20:03:03 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jul 2023 13:25:00 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>App Store Ads</title>
-      <link>https://s1999u2.github.io/annoyances/app_store_ads/</link>
-      <pubDate>Sun, 05 Mar 2023 20:03:03 +0100</pubDate>
+      <title>Barclays and the Notch</title>
+      <link>https://s1999u2.github.io/annoyances/barclays_layout/</link>
+      <pubDate>Tue, 11 Jul 2023 13:25:00 +0100</pubDate>
       
-      <guid>https://s1999u2.github.io/annoyances/app_store_ads/</guid>
-      <description>Ads Are Ruining the App Store Hey, wouldn&amp;rsquo;t it be cool if Apple didn&amp;rsquo;t show the app I&amp;rsquo;m searching for both as a giant ad and as a search result? Let&amp;rsquo;s keep things simple, shall we?1
-Ads are ruining Apple&amp;rsquo;s App Store. I understand that Crunchy Bagel, the developer of the app, is not to blame. I genuinely adore Streaks and all of the other apps they offer. You should definitely check them out.</description>
+      <guid>https://s1999u2.github.io/annoyances/barclays_layout/</guid>
+      <description>Barclays and the Notch The iPhone X with the notch was released in November 2017, that&amp;rsquo;s more than 5.5 years ago. Somehow Barclays hasn&amp;rsquo;t gotten the news yet 🙄.
+The Barclays banking app doesn&amp;rsquo;t respect. </description>
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>https://s1999u2.github.io/annoyances/hello_world/</link>
-      <pubDate>Sat, 04 Mar 2023 20:03:03 +0100</pubDate>
+      <title>Hey Siri, What&#39;s Commodity in German?</title>
+      <link>https://s1999u2.github.io/annoyances/siri_translation/</link>
+      <pubDate>Tue, 04 Jul 2023 18:20:00 +0100</pubDate>
       
-      <guid>https://s1999u2.github.io/annoyances/hello_world/</guid>
-      <description>Annoyances I know technology is amazing and many things are moving at a neckbreaking speed. Still, from time to time we get frustrated with the devices and services surrounding our daily lives.
-As an homage to Annoying Technology and to blow off steam when Siri fails me in surprising new ways yet again this page is for some light hearted annoyances1. Besides, someone has to be the chronicler of the ever-advancing enshitification 😉</description>
+      <guid>https://s1999u2.github.io/annoyances/siri_translation/</guid>
+      <description>Hey Siri, What&amp;rsquo;s Commodity in German? Siri:
+You can translate in Translate to German and many other languages.
+Thank&amp;rsquo;s for nothing…
+Siri unwilling to translate. </description>
+    </item>
+    
+    <item>
+      <title>Apple Weather Location Permissions</title>
+      <link>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</link>
+      <pubDate>Wed, 28 Jun 2023 15:38:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</guid>
+      <description>Apple Weather Location Permissions Steve Jobs, in an interview at the D8 conference in June 2010:
+Privacy means people know what they’re signing up for, in plain English and repeatedly
+Of course, I want to know if an app tracks my location. But isn&amp;rsquo;t this getting a bit excessive? Besides, I&amp;rsquo;m sure I&amp;rsquo;ve already given Weather the Always Allow permission several times.
+Weather has used your location 454 times in the background over the past 3 days.</description>
+    </item>
+    
+    <item>
+      <title>Hey Siri, Remind Me to…</title>
+      <link>https://s1999u2.github.io/annoyances/siri_reminder/</link>
+      <pubDate>Tue, 27 Jun 2023 16:09:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/siri_reminder/</guid>
+      <description>Hey Siri, Remind Me to… Hey Siri, remind me to finish the exam and announcement when I get to work
+Siri:
+OK, Intercom to all
+I’ve created literally thousands of reminders with Siri. Siri correctly transcribed my instructions. For no apparent reason Siri utterly fails to set a reminder and sends my query to all the people in my home.
+Intercom and remind me don’t even sound vaguely similar (neither in German nor in English).</description>
+    </item>
+    
+    <item>
+      <title>iOS Control Center</title>
+      <link>https://s1999u2.github.io/annoyances/ios_control_center/</link>
+      <pubDate>Wed, 21 Jun 2023 20:00:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/ios_control_center/</guid>
+      <description>Apple Sweats the Details This is on iOS 16.5.1, btw. So we&amp;rsquo;re 15 releases into the iOS 16 cycle.
+15 releases in, iOS 16 is still glitchy. </description>
+    </item>
+    
+    <item>
+      <title>iOS 16.5 is Still Buggy</title>
+      <link>https://s1999u2.github.io/annoyances/ios_16_rotation/</link>
+      <pubDate>Fri, 02 Jun 2023 22:12:32 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/ios_16_rotation/</guid>
+      <description>iOS 16.5 is Still Buggy After 16 years of working (more or less) flawlessly, iOS 16 breaks basic functionalities. With iOS 16.5 we&amp;rsquo;re 8 months into the iOS 16 release
+Screen rotation is still broken in iOS 16.5. </description>
+    </item>
+    
+    <item>
+      <title>Apple&#39;s Privileges</title>
+      <link>https://s1999u2.github.io/annoyances/app_store_ads_4/</link>
+      <pubDate>Tue, 30 May 2023 08:21:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/app_store_ads_4/</guid>
+      <description>Apple&amp;rsquo;s Privileges Since iOS and the App Store are Apple&amp;rsquo;s own platforms it gets special privileges and doesn&amp;rsquo;t have to follow its own rules. Ever seen any third-party app getting such a nice screen asking for permissions?
+And how about the dark pattern highlighting the Enable Notifications…
+Also: Not Now? How about never?
+Apple gets special treatment when asking for permissions. </description>
+    </item>
+    
+    <item>
+      <title>Optimizing Your Mac</title>
+      <link>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</link>
+      <pubDate>Sun, 21 May 2023 08:58:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</guid>
+      <description>Optimizing Your Mac A few days ago, I set up my newly purchased MacBook. So far, so good, but what does &amp;ldquo;Optimizing Your Mac&amp;rdquo; mean? I certainly didn&amp;rsquo;t notice any decreased performance or battery life, and I have some idea what it might be doing. But wouldn&amp;rsquo;t it be convenient to provide some more details? Or maybe even see what my Mac is doing?
+Optimizing Your Mac. </description>
+    </item>
+    
+    <item>
+      <title>Hey Siri, Hallway Light Off</title>
+      <link>https://s1999u2.github.io/annoyances/siri_turn_off_lights_2/</link>
+      <pubDate>Wed, 10 May 2023 13:39:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/siri_turn_off_lights_2/</guid>
+      <description>Hey Siri, Hallway Light Off Siri:
+Please confirm: you want to turn off this device?
+Fool me once…
+Again: this used to work flawlessly for years. 🤷
+Siri forgot how to turn off my hallway lights. </description>
+    </item>
+    
+    <item>
+      <title>Hey Siri, Turn off the Bedroom Light</title>
+      <link>https://s1999u2.github.io/annoyances/siri_turn_off_lights_1/</link>
+      <pubDate>Thu, 04 May 2023 21:03:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/siri_turn_off_lights_1/</guid>
+      <description>Hey Siri, Turn off the Bedroom Light Siri:
+Please confirm: you want to turn off this device?
+You’d be surprised to learn that confirming then turns off the iPhone 🤦‍♂️
+Why Siri? This used to work for the last 4 years 🤦‍♂️
+Siri forgot how to turn off my bedroom lights. </description>
+    </item>
+    
+    <item>
+      <title>Important Carrier Message</title>
+      <link>https://s1999u2.github.io/annoyances/apple_watch_carrier_message/</link>
+      <pubDate>Thu, 04 May 2023 11:39:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/apple_watch_carrier_message/</guid>
+      <description>Important Carrier Message Hmm, okay. Not sure what to do with this. My iPhone didn&amp;rsquo;t show anything, for sure.
+Apple Watch showing it&amp;rsquo;s limitations once again. </description>
+    </item>
+    
+    <item>
+      <title>App Store Dark Patterns</title>
+      <link>https://s1999u2.github.io/annoyances/app_store_ads_3/</link>
+      <pubDate>Thu, 27 Apr 2023 08:55:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/app_store_ads_3/</guid>
+      <description>Services are Apples Next Big Business No, I didn&amp;rsquo;t want notifications the first time you asked. Or the second time. So no, I still don&amp;rsquo;t want any notifications, even if you put them inline with the content.
+Apple sneakily trying to spam me. </description>
+    </item>
+    
+    <item>
+      <title>Hey Siri, What’s the Weather Like in Tokyo?</title>
+      <link>https://s1999u2.github.io/annoyances/siri_tokyo/</link>
+      <pubDate>Tue, 11 Apr 2023 10:01:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/siri_tokyo/</guid>
+      <description>Hey Siri, What’s the Weather Like in Tokyo? Siri:
+Here is the weather for Tokio, United States.
+Obviously, people refer to Tokio, North Dakota (or Tokio, Texas) when they say &amp;ldquo;Tokyo.&amp;rdquo; (Even most of the US doesn&amp;rsquo;t refer to any of those two 🤷).
+How is this still a problem?
+Siri giving irrelevant results. </description>
+    </item>
+    
+    <item>
+      <title>App Store Ads for Installed Apps</title>
+      <link>https://s1999u2.github.io/annoyances/app_store_ads_2/</link>
+      <pubDate>Sun, 26 Mar 2023 14:37:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/app_store_ads_2/</guid>
+      <description>Apple Knows How to Make the App Store a Premium Experience First, Apple is explicitly showing me something I&amp;rsquo;m not looking for.
+Second, Apple knows Audible is already installed and decides to show me the ad anyway.
+Apple Knows How to Make the App Store a Premium Experience. </description>
+    </item>
+    
+    <item>
+      <title>App Store Ads for the Top Result</title>
+      <link>https://s1999u2.github.io/annoyances/app_store_ads_1/</link>
+      <pubDate>Sun, 05 Mar 2023 19:30:03 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/app_store_ads_1/</guid>
+      <description>Ads Are Ruining the App Store Hey, wouldn&amp;rsquo;t it be cool if Apple didn&amp;rsquo;t show the app I&amp;rsquo;m searching for both as a giant ad and as a search result?1
+Ads are ruining Apple&amp;rsquo;s App Store. I understand that Crunchy Bagel, the app developer, is not to blame. I genuinely adore Streaks and all of the other apps they offer. You should definitely check them out.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    
+    <item>
+      <title>Apple Watch Update</title>
+      <link>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</link>
+      <pubDate>Thu, 23 Feb 2023 20:10:05 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</guid>
+      <description>Apple Watch Update You can resume the download when you are connected to a Wi-Fi network.
+Ookay… So is the Watch app broken and unwilling to update. Or is my iPhone lying to me and I’m not connected to Wi-Fi?
+Apple Watch requires Wi-Fi to update. </description>
+    </item>
+    
+    <item>
+      <title>Hey Siri, How Much is 166 Miles?</title>
+      <link>https://s1999u2.github.io/annoyances/siri_166_miles/</link>
+      <pubDate>Tue, 07 Feb 2023 12:00:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/siri_166_miles/</guid>
+      <description>Hey Siri, How Much is 166 Miles? Siri:
+Nothing with the title „&amp;ldquo;miles&amp;rdquo; is planned between January 1, 166, and December 31, 166.
+Siri forgot how to convert units. </description>
+    </item>
+    
+    <item>
+      <title>1Password 8 is Great</title>
+      <link>https://s1999u2.github.io/annoyances/1password_suggestion/</link>
+      <pubDate>Thu, 02 Feb 2023 13:26:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/1password_suggestion/</guid>
+      <description>1Password 8 is Great Best autofill suggestion ever
+1Password giving useless autofill suggestions. </description>
     </item>
     
     <item>
@@ -38,12 +219,67 @@ As an homage to Annoying Technology and to blow off steam when Siri fails me in 
     </item>
     
     <item>
+      <title>Hey Siri, What is 0.99 &#43; 2.19…</title>
+      <link>https://s1999u2.github.io/annoyances/siri_calculator/</link>
+      <pubDate>Tue, 24 Jan 2023 17:19:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/siri_calculator/</guid>
+      <description>Hey Siri, What is 0.99 + 2.19… Hey Siri, what is 0.99 + 2.19 + 0.89 + 5.98 + 2.29?
+Siri:
+I found 36 calls.
+After all these years, Siri always surprises me with some random answers.
+Siri fails to do basic calculations. </description>
+    </item>
+    
+    <item>
       <title>Things I Learned in 2022</title>
       <link>https://s1999u2.github.io/things-i-learned-in-2022/</link>
       <pubDate>Sun, 01 Jan 2023 19:58:12 +0100</pubDate>
       
       <guid>https://s1999u2.github.io/things-i-learned-in-2022/</guid>
       <description>Welcome to &amp;ldquo;Things I Learned in 2022&amp;rdquo;! In this post, I&amp;rsquo;ll be sharing a list of things that stood out to me as I read and listened to various sources throughout the year. These are things that I found noteworthy and thought-provoking, and I&amp;rsquo;ve included sources for each item as well as summaries of the linked articles or topics for those who are interested in more than just the headline. If you happen to notice any errors, you can reach me on Mastodon at @Secundus@home.</description>
+    </item>
+    
+    <item>
+      <title>OpenVPN Dark Pattern</title>
+      <link>https://s1999u2.github.io/annoyances/open_vpn_rating/</link>
+      <pubDate>Thu, 01 Dec 2022 08:57:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/open_vpn_rating/</guid>
+      <description>OpenVPN Dark Pattern Okay, so giving the OpenVPN app five stars takes me straight to the App Store. But for anything less, they want me to &amp;ldquo;take a survey&amp;rdquo; 🥵.
+Sure, rate the app. No way, Jose, take a survey. </description>
+    </item>
+    
+    <item>
+      <title>ML-based Autocorrect Sucks</title>
+      <link>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</link>
+      <pubDate>Tue, 01 Nov 2022 09:00:00 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</guid>
+      <description>ML-based Autocorrect Sucks I get wildly wrong predictions since Apple added machine learning-based predictions to its autocorrection/text completion. Why on earth would the German equivalent of „well then it’s…“ logically be completed to „iStateOfMind3“ 🤷? I don’t have an app with that name installed, and as far as I know, I never had one.
+iOS keyboard giving wildly wrong suggestions.. </description>
+    </item>
+    
+    <item>
+      <title>Hey Siri, When is Calendar Week 26 2023?</title>
+      <link>https://s1999u2.github.io/annoyances/siri_calendar_week/</link>
+      <pubDate>Sat, 27 Aug 2022 22:19:37 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/siri_calendar_week/</guid>
+      <description>Hey Siri, When is Calendar Week 26 2023? Siri:
+It is Saturday, August 27, 2022.
+Okay 🙄
+Siri forgot how to tell calendar weeks. </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://s1999u2.github.io/annoyances/hello_world/</link>
+      <pubDate>Mon, 01 Aug 2022 20:03:03 +0100</pubDate>
+      
+      <guid>https://s1999u2.github.io/annoyances/hello_world/</guid>
+      <description>Annoyances I know technology is amazing and many things are moving at a neckbreaking speed. Still, from time to time we get frustrated with the devices and services surrounding our daily lives.
+As an homage to Annoying Technology and to blow off steam when Siri fails me in surprising new ways yet again this page is for some light hearted annoyances1. Besides, someone has to be the chronicler of the ever-advancing enshitification 😉</description>
     </item>
     
     <item>
