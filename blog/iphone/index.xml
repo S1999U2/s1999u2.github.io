@@ -1,86 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iPhone on S/1999 U 2</title>
+    <title>IPhone on S/1999 U 2</title>
     <link>https://s1999u2.github.io/blog/iphone/</link>
-    <description>Recent content in iPhone on S/1999 U 2</description>
+    <description>Recent content in IPhone on S/1999 U 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Wed, 28 Jun 2023 15:38:00 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/blog/iphone/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jun 2023 15:38:00 +0100</lastBuildDate>
+    <atom:link href="https://s1999u2.github.io/blog/iphone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple Weather Location Permissions</title>
       <link>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</link>
       <pubDate>Wed, 28 Jun 2023 15:38:00 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</guid>
-      <description>Apple Weather Location Permissions Steve Jobs, in an interview at the D8 conference in June 2010:
-Privacy means people know what they’re signing up for, in plain English and repeatedly
-Of course, I want to know if an app tracks my location. But isn&amp;rsquo;t this getting a bit excessive? Besides, I&amp;rsquo;m sure I&amp;rsquo;ve already given Weather the Always Allow permission several times.
-Weather has used your location 454 times in the background over the past 3 days.</description>
+      <description>Apple Weather Location Permissions Steve Jobs, in an interview at the D8 conference in June 2010:&#xA;Privacy means people know what they’re signing up for, in plain English and repeatedly&#xA;Of course, I want to know if an app tracks my location. But isn&amp;rsquo;t this getting a bit excessive? Besides, I&amp;rsquo;m sure I&amp;rsquo;ve already given Weather the Always Allow permission several times.&#xA;Weather has used your location 454 times in the background over the past 3 days.</description>
     </item>
-    
     <item>
       <title>iOS Control Center</title>
       <link>https://s1999u2.github.io/annoyances/ios_control_center/</link>
       <pubDate>Wed, 21 Jun 2023 20:00:00 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/ios_control_center/</guid>
-      <description>Apple Sweats the Details This is on iOS 16.5.1, btw. So we&amp;rsquo;re 15 releases into the iOS 16 cycle.
-15 releases in, iOS 16 is still glitchy. </description>
+      <description>Apple Sweats the Details This is on iOS 16.5.1, btw. So we&amp;rsquo;re 15 releases into the iOS 16 cycle.&#xA;15 releases in, iOS 16 is still glitchy. </description>
     </item>
-    
     <item>
       <title>iOS 16.5 is Still Buggy</title>
       <link>https://s1999u2.github.io/annoyances/ios_16_rotation/</link>
       <pubDate>Fri, 02 Jun 2023 22:12:32 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/ios_16_rotation/</guid>
-      <description>iOS 16.5 is Still Buggy After 16 years of working (more or less) flawlessly, iOS 16 breaks basic functionalities. With iOS 16.5 we&amp;rsquo;re 8 months into the iOS 16 release
-Screen rotation is still broken in iOS 16.5. </description>
+      <description>iOS 16.5 is Still Buggy After 16 years of working (more or less) flawlessly, iOS 16 breaks basic functionalities. With iOS 16.5 we&amp;rsquo;re 8 months into the iOS 16 release&#xA;Screen rotation is still broken in iOS 16.5. </description>
     </item>
-    
     <item>
       <title>App Store Ads for Installed Apps</title>
       <link>https://s1999u2.github.io/annoyances/app_store_ads_2/</link>
       <pubDate>Sun, 26 Mar 2023 14:37:00 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/app_store_ads_2/</guid>
-      <description>Apple Knows How to Make the App Store a Premium Experience First, Apple is explicitly showing me something I&amp;rsquo;m not looking for.
-Second, Apple knows Audible is already installed and decides to show me the ad anyway.
-Apple Knows How to Make the App Store a Premium Experience. </description>
+      <description>Apple Knows How to Make the App Store a Premium Experience First, Apple is explicitly showing me something I&amp;rsquo;m not looking for.&#xA;Second, Apple knows Audible is already installed and decides to show me the ad anyway.&#xA;Apple Knows How to Make the App Store a Premium Experience. </description>
     </item>
-    
     <item>
       <title>App Store Ads for the Top Result</title>
       <link>https://s1999u2.github.io/annoyances/app_store_ads_1/</link>
       <pubDate>Sun, 05 Mar 2023 19:30:03 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/app_store_ads_1/</guid>
-      <description>Ads Are Ruining the App Store Hey, wouldn&amp;rsquo;t it be cool if Apple didn&amp;rsquo;t show the app I&amp;rsquo;m searching for both as a giant ad and as a search result?1
-Ads are ruining Apple&amp;rsquo;s App Store. I understand that Crunchy Bagel, the app developer, is not to blame. I genuinely adore Streaks and all of the other apps they offer. You should definitely check them out.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+      <description>Ads Are Ruining the App Store Hey, wouldn&amp;rsquo;t it be cool if Apple didn&amp;rsquo;t show the app I&amp;rsquo;m searching for both as a giant ad and as a search result?1&#xA;Ads are ruining Apple&amp;rsquo;s App Store. I understand that Crunchy Bagel, the app developer, is not to blame. I genuinely adore Streaks and all of the other apps they offer. You should definitely check them out.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
-    
     <item>
       <title>Apple Watch Update</title>
       <link>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</link>
       <pubDate>Thu, 23 Feb 2023 20:10:05 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</guid>
-      <description>Apple Watch Update You can resume the download when you are connected to a Wi-Fi network.
-Ookay… So is the Watch app broken and unwilling to update. Or is my iPhone lying to me and I’m not connected to Wi-Fi?
-Apple Watch requires Wi-Fi to update. </description>
+      <description>Apple Watch Update You can resume the download when you are connected to a Wi-Fi network.&#xA;Ookay… So is the Watch app broken and unwilling to update. Or is my iPhone lying to me and I’m not connected to Wi-Fi?&#xA;Apple Watch requires Wi-Fi to update. </description>
     </item>
-    
     <item>
       <title>ML-based Autocorrect Sucks</title>
       <link>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</link>
       <pubDate>Tue, 01 Nov 2022 09:00:00 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</guid>
-      <description>ML-based Autocorrect Sucks I get wildly wrong predictions since Apple added machine learning-based predictions to its autocorrection/text completion. Why on earth would the German equivalent of „well then it’s…“ logically be completed to „iStateOfMind3“ 🤷? I don’t have an app with that name installed, and as far as I know, I never had one.
-iOS keyboard giving wildly wrong suggestions.. </description>
+      <description>ML-based Autocorrect Sucks I get wildly wrong predictions since Apple added machine learning-based predictions to its autocorrection/text completion. Why on earth would the German equivalent of „well then it’s…“ logically be completed to „iStateOfMind3“ 🤷? I don’t have an app with that name installed, and as far as I know, I never had one.&#xA;iOS keyboard giving wildly wrong suggestions.. </description>
     </item>
-    
   </channel>
 </rss>

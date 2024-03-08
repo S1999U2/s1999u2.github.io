@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>macOS on S/1999 U 2</title>
+    <title>MacOS on S/1999 U 2</title>
     <link>https://s1999u2.github.io/blog/macos/</link>
-    <description>Recent content in macOS on S/1999 U 2</description>
+    <description>Recent content in MacOS on S/1999 U 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Sun, 21 May 2023 08:58:00 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/blog/macos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 22:16:55 +0100</lastBuildDate>
+    <atom:link href="https://s1999u2.github.io/blog/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magnet is Damaged</title>
+      <link>https://s1999u2.github.io/annoyances/macos_magnet_is_damaged/</link>
+      <pubDate>Fri, 14 Jul 2023 22:16:55 +0100</pubDate>
+      <guid>https://s1999u2.github.io/annoyances/macos_magnet_is_damaged/</guid>
+      <description>Magnet is Damaged Magnet is a nifty little app that allows Mac users to use Windows-style window snapping1.&#xA;But: I installed Magnet from the App Store, and I&amp;rsquo;m running a current Mac and the latest macOS – how can an app get damaged so that the only way to fix it is to reinstall it? I certainly never had any issue like this on an iPhone.&#xA;If Apple knows exactly how to fix it and Apple runs the App Store – why don&amp;rsquo;t they simply reinstall it?</description>
+    </item>
     <item>
       <title>Optimizing Your Mac</title>
       <link>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</link>
       <pubDate>Sun, 21 May 2023 08:58:00 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</guid>
-      <description>Optimizing Your Mac A few days ago, I set up my newly purchased MacBook. So far, so good, but what does &amp;ldquo;Optimizing Your Mac&amp;rdquo; mean? I certainly didn&amp;rsquo;t notice any decreased performance or battery life, and I have some idea what it might be doing. But wouldn&amp;rsquo;t it be convenient to provide some more details? Or maybe even see what my Mac is doing?
-Optimizing Your Mac. </description>
+      <description>Optimizing Your Mac A few days ago, I set up my newly purchased MacBook. So far, so good, but what does &amp;ldquo;Optimizing Your Mac&amp;rdquo; mean? I certainly didn&amp;rsquo;t notice any decreased performance or battery life, and I have some idea what it might be doing. But wouldn&amp;rsquo;t it be convenient to provide some more details? Or maybe even see what my Mac is doing?&#xA;Optimizing Your Mac. </description>
     </item>
-    
   </channel>
 </rss>

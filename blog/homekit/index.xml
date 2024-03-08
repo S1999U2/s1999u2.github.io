@@ -7,45 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Tue, 27 Jun 2023 16:09:00 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/blog/homekit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 16:09:00 +0100</lastBuildDate>
+    <atom:link href="https://s1999u2.github.io/blog/homekit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hey Siri, Remind Me to…</title>
       <link>https://s1999u2.github.io/annoyances/siri_reminder/</link>
       <pubDate>Tue, 27 Jun 2023 16:09:00 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/siri_reminder/</guid>
-      <description>Hey Siri, Remind Me to… Hey Siri, remind me to finish the exam and announcement when I get to work
-Siri:
-OK, Intercom to all
-I’ve created literally thousands of reminders with Siri. Siri correctly transcribed my instructions. For no apparent reason Siri utterly fails to set a reminder and sends my query to all the people in my home.
-Intercom and remind me don’t even sound vaguely similar (neither in German nor in English).</description>
+      <description>Hey Siri, Remind Me to… Hey Siri, remind me to finish the exam and announcement when I get to work&#xA;Siri:&#xA;OK, Intercom to all&#xA;I’ve created literally thousands of reminders with Siri. Siri correctly transcribed my instructions. For no apparent reason Siri utterly fails to set a reminder and sends my query to all the people in my home.&#xA;Intercom and remind me don’t even sound vaguely similar (neither in German nor in English).</description>
     </item>
-    
     <item>
       <title>Hey Siri, Hallway Light Off</title>
       <link>https://s1999u2.github.io/annoyances/siri_turn_off_lights_2/</link>
       <pubDate>Wed, 10 May 2023 13:39:00 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/siri_turn_off_lights_2/</guid>
-      <description>Hey Siri, Hallway Light Off Siri:
-Please confirm: you want to turn off this device?
-Fool me once…
-Again: this used to work flawlessly for years. 🤷
-Siri forgot how to turn off my hallway lights. </description>
+      <description>Hey Siri, Hallway Light Off Siri:&#xA;Please confirm: you want to turn off this device?&#xA;Fool me once…&#xA;Again: this used to work flawlessly for years. 🤷&#xA;Siri forgot how to turn off my hallway lights. </description>
     </item>
-    
     <item>
       <title>Hey Siri, Turn off the Bedroom Light</title>
       <link>https://s1999u2.github.io/annoyances/siri_turn_off_lights_1/</link>
       <pubDate>Thu, 04 May 2023 21:03:00 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/siri_turn_off_lights_1/</guid>
-      <description>Hey Siri, Turn off the Bedroom Light Siri:
-Please confirm: you want to turn off this device?
-You’d be surprised to learn that confirming then turns off the iPhone 🤦‍♂️
-Why Siri? This used to work for the last 4 years 🤦‍♂️
-Siri forgot how to turn off my bedroom lights. </description>
+      <description>Hey Siri, Turn off the Bedroom Light Siri:&#xA;Please confirm: you want to turn off this device?&#xA;You’d be surprised to learn that confirming then turns off the iPhone 🤦‍♂️&#xA;Why Siri? This used to work for the last 4 years 🤦‍♂️&#xA;Siri forgot how to turn off my bedroom lights. </description>
     </item>
-    
   </channel>
 </rss>

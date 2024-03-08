@@ -7,16 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Tue, 01 Nov 2022 09:00:00 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/blog/autocorrect/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Nov 2022 09:00:00 +0100</lastBuildDate>
+    <atom:link href="https://s1999u2.github.io/blog/autocorrect/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ML-based Autocorrect Sucks</title>
       <link>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</link>
       <pubDate>Tue, 01 Nov 2022 09:00:00 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</guid>
-      <description>ML-based Autocorrect Sucks I get wildly wrong predictions since Apple added machine learning-based predictions to its autocorrection/text completion. Why on earth would the German equivalent of „well then it’s…“ logically be completed to „iStateOfMind3“ 🤷? I don’t have an app with that name installed, and as far as I know, I never had one.
-iOS keyboard giving wildly wrong suggestions.. </description>
+      <description>ML-based Autocorrect Sucks I get wildly wrong predictions since Apple added machine learning-based predictions to its autocorrection/text completion. Why on earth would the German equivalent of „well then it’s…“ logically be completed to „iStateOfMind3“ 🤷? I don’t have an app with that name installed, and as far as I know, I never had one.&#xA;iOS keyboard giving wildly wrong suggestions.. </description>
     </item>
-    
   </channel>
 </rss>

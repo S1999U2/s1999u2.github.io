@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>watchOS on S/1999 U 2</title>
+    <title>WatchOS on S/1999 U 2</title>
     <link>https://s1999u2.github.io/blog/watchos/</link>
-    <description>Recent content in watchOS on S/1999 U 2</description>
+    <description>Recent content in WatchOS on S/1999 U 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Thu, 04 May 2023 11:39:00 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/blog/watchos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 May 2023 11:39:00 +0100</lastBuildDate>
+    <atom:link href="https://s1999u2.github.io/blog/watchos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Important Carrier Message</title>
       <link>https://s1999u2.github.io/annoyances/apple_watch_carrier_message/</link>
       <pubDate>Thu, 04 May 2023 11:39:00 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/apple_watch_carrier_message/</guid>
-      <description>Important Carrier Message Hmm, okay. Not sure what to do with this. My iPhone didn&amp;rsquo;t show anything, for sure.
-Apple Watch showing it&amp;rsquo;s limitations once again. </description>
+      <description>Important Carrier Message Hmm, okay. Not sure what to do with this. My iPhone didn&amp;rsquo;t show anything, for sure.&#xA;Apple Watch showing it&amp;rsquo;s limitations once again. </description>
     </item>
-    
     <item>
       <title>Apple Watch Update</title>
       <link>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</link>
       <pubDate>Thu, 23 Feb 2023 20:10:05 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</guid>
-      <description>Apple Watch Update You can resume the download when you are connected to a Wi-Fi network.
-Ookay… So is the Watch app broken and unwilling to update. Or is my iPhone lying to me and I’m not connected to Wi-Fi?
-Apple Watch requires Wi-Fi to update. </description>
+      <description>Apple Watch Update You can resume the download when you are connected to a Wi-Fi network.&#xA;Ookay… So is the Watch app broken and unwilling to update. Or is my iPhone lying to me and I’m not connected to Wi-Fi?&#xA;Apple Watch requires Wi-Fi to update. </description>
     </item>
-    
   </channel>
 </rss>

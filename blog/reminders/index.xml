@@ -7,19 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Tue, 27 Jun 2023 16:09:00 +0100</lastBuildDate><atom:link href="https://s1999u2.github.io/blog/reminders/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 16:09:00 +0100</lastBuildDate>
+    <atom:link href="https://s1999u2.github.io/blog/reminders/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hey Siri, Remind Me to…</title>
       <link>https://s1999u2.github.io/annoyances/siri_reminder/</link>
       <pubDate>Tue, 27 Jun 2023 16:09:00 +0100</pubDate>
-      
       <guid>https://s1999u2.github.io/annoyances/siri_reminder/</guid>
-      <description>Hey Siri, Remind Me to… Hey Siri, remind me to finish the exam and announcement when I get to work
-Siri:
-OK, Intercom to all
-I’ve created literally thousands of reminders with Siri. Siri correctly transcribed my instructions. For no apparent reason Siri utterly fails to set a reminder and sends my query to all the people in my home.
-Intercom and remind me don’t even sound vaguely similar (neither in German nor in English).</description>
+      <description>Hey Siri, Remind Me to… Hey Siri, remind me to finish the exam and announcement when I get to work&#xA;Siri:&#xA;OK, Intercom to all&#xA;I’ve created literally thousands of reminders with Siri. Siri correctly transcribed my instructions. For no apparent reason Siri utterly fails to set a reminder and sends my query to all the people in my home.&#xA;Intercom and remind me don’t even sound vaguely similar (neither in German nor in English).</description>
     </item>
-    
   </channel>
 </rss>
