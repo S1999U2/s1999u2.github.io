@@ -12,36 +12,67 @@
 <meta name="keywords" content="1password,annoyances,app store,apple,apple watch,autocorrect,banking,barclays,bug,dark pattern,finance,homekit,ios,ipad os,iphone,macbook,macos,openvpn,reminders,siri,things i learned,watchos," />
 
 
-<meta property="og:title" content="404 Page not found" />
-<meta property="og:description" content="Hugo &#43; Bear = :heart:" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://s1999u2.github.io/404.html" /><meta property="og:image" content="https://s1999u2.github.io/images/share.png" /><meta property="og:site_name" content="S/1999 U 2" />
+<meta property="og:url" content="https://s1999u2.github.io/404.html">
+	<meta property="og:site_name" content="S/1999 U 2">
+	<meta property="og:title" content="404 Page not found">
+	<meta property="og:description" content="Hugo &#43; Bear = :heart:">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+		<meta property="og:image" content="https://s1999u2.github.io/images/share.png">
 
 
 
 
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://s1999u2.github.io/images/share.png" /><meta name="twitter:title" content="404 Page not found"/>
-<meta name="twitter:description" content="Hugo &#43; Bear = :heart:"/>
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="https://s1999u2.github.io/images/share.png">
+	<meta name="twitter:title" content="404 Page not found">
+	<meta name="twitter:description" content="Hugo &#43; Bear = :heart:">
 
 
 
-<meta itemprop="name" content="404 Page not found">
-<meta itemprop="description" content="Hugo &#43; Bear = :heart:">
+
+	<meta itemprop="name" content="404 Page not found">
+	<meta itemprop="description" content="Hugo &#43; Bear = :heart:">
+	<meta itemprop="image" content="https://s1999u2.github.io/images/share.png">
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
   <style>
+  :root {
+    --width: 720px;
+    --font-main: Verdana, sans-serif;
+    --font-secondary: Verdana, sans-serif;
+    --font-scale: 1em;
+    --background-color: #fff;
+    --heading-color: #222;
+    --text-color: #444;
+    --link-color: #3273dc;
+    --visited-color: #8b6fcb;
+    --blockquote-color: #222;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --background-color: #01242e;
+      --heading-color: #eee;
+      --text-color: #ddd;
+      --link-color: #8cc2dd;
+      --visited-color: #8b6fcb;
+      --blockquote-color: #ccc;
+    }
+  }
+
   body {
-    font-family: Verdana, sans-serif;
+    font-family: var(--font-secondary);
+    font-size: var(--font-scale);
     margin: auto;
     padding: 20px;
-    max-width: 720px;
+    max-width: var(--width);
     text-align: left;
-    background-color: #fff;
+    background-color: var(--background-color);
     word-wrap: break-word;
     overflow-wrap: break-word;
     line-height: 1.5;
-    color: #444;
+    color: var(--text-color);
   }
 
   h1,
@@ -49,40 +80,42 @@
   h3,
   h4,
   h5,
-  h6,
-  strong,
-  b {
-    color: #222;
+  h6 {
+    font-family: var(--font-main);
+    color: var(--heading-color);
   }
 
   a {
-    color: #3273dc;
-     
-  }
-
-  .title {
+    color: var(--link-color);
+    cursor: pointer;
     text-decoration: none;
-    border: 0;
   }
 
-  .title span {
-    font-weight: 400;
+  a:hover {
+    text-decoration: underline;
   }
 
   nav a {
-    margin-right: 10px;
+    margin-right: 8px;
   }
 
-  textarea {
-    width: 100%;
-    font-size: 16px;
+  strong,
+  b {
+    color: var(--heading-color);
   }
 
-  input {
-    font-size: 16px;
+  button {
+    margin: 0;
+    cursor: pointer;
   }
 
-  content {
+  time {
+    font-family: monospace;
+    font-style: normal;
+    font-size: 15px;
+  }
+
+  main {
     line-height: 1.6;
   }
 
@@ -90,54 +123,57 @@
     width: 100%;
   }
 
+  hr {
+    border: 0;
+    border-top: 1px dashed;
+  }
+
   img {
     max-width: 100%;
   }
 
   code {
-    padding: 2px 5px;
-    background-color: #f2f2f2;
-  }
-
-  pre code {
-    color: #222;
-    display: block;
-    padding: 20px;
-    white-space: pre-wrap;
-    font-size: 14px;
-    overflow-x: auto;
-  }
-
-  div.highlight pre {
-    background-color: initial;
-    color: initial;
-  }
-
-  div.highlight code {
-    background-color: unset;
-    color: unset;
+    font-family: monospace;
+    padding: 2px;
+    border-radius: 3px;
   }
 
   blockquote {
     border-left: 1px solid #999;
-    color: #222;
+    color: var(--blockquote-color);
     padding-left: 20px;
     font-style: italic;
   }
 
   footer {
-    padding: 25px;
+    padding: 25px 0;
     text-align: center;
   }
 
-  .helptext {
-    color: #777;
-    font-size: small;
+  .title:hover {
+    text-decoration: none;
   }
 
-  .errorlist {
-    color: #eba613;
-    font-size: small;
+  .title h1 {
+    font-size: 1.5em;
+  }
+
+  .inline {
+    width: auto !important;
+  }
+
+  .highlight,
+  .code {
+    border-radius: 3px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    overflow-x: auto;
+  }
+
+  .highlight pre,
+  .code pre {
+    min-width: 100%;
+    width: max-content;
   }
 
    
@@ -155,51 +191,7 @@
   }
 
   ul.blog-posts li a:visited {
-    color: #8b6fcb;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    body {
-      background-color: #333;
-      color: #ddd;
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    strong,
-    b {
-      color: #eee;
-    }
-
-    a {
-      color: #8cc2dd;
-    }
-
-    code {
-      background-color: #777;
-    }
-
-    pre code {
-      color: #ddd;
-    }
-
-    blockquote {
-      color: #ccc;
-    }
-
-    textarea,
-    input {
-      background-color: #252525;
-      color: #ddd;
-    }
-
-    .helptext {
-      color: #aaa;
-    }
+    color: var(--visited-color);
   }
 
 </style>
@@ -210,12 +202,14 @@
   <header><a href="/" class="title">
   <h2>S/1999 U 2</h2>
 </a>
-<nav><a href="/">Home</a>
+<nav>
+<a href="/">Blog</a>
+
+<a href="/about/">About</a>
 
 <a href="/annoyances/">Annoyances</a>
 
-
-<a href="/blog">Blog</a>
+<a href="/blog/index.xml">RSS</a>
 
 </nav>
 </header>
@@ -227,7 +221,7 @@
   <footer>
 </footer>
 
-    
+  
 </body>
 
 </html>

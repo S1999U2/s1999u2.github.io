@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dark Pattern on S/1999 U 2</title>
-    <link>https://s1999u2.github.io/blog/dark-pattern/</link>
-    <description>Recent content in Dark Pattern on S/1999 U 2</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Tue, 30 May 2023 08:21:00 +0100</lastBuildDate>
-    <atom:link href="https://s1999u2.github.io/blog/dark-pattern/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Apple&#39;s Privileges</title>
-      <link>https://s1999u2.github.io/annoyances/app_store_ads_4/</link>
-      <pubDate>Tue, 30 May 2023 08:21:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/app_store_ads_4/</guid>
-      <description>Apple&amp;rsquo;s Privileges Since iOS and the App Store are Apple&amp;rsquo;s own platforms it gets special privileges and doesn&amp;rsquo;t have to follow its own rules. Ever seen any third-party app getting such a nice screen asking for permissions?&#xA;And how about the dark pattern highlighting the Enable Notifications…&#xA;Also: Not Now? How about never?&#xA;Apple gets special treatment when asking for permissions. </description>
-    </item>
-    <item>
-      <title>OpenVPN Dark Pattern</title>
-      <link>https://s1999u2.github.io/annoyances/open_vpn_rating/</link>
-      <pubDate>Thu, 01 Dec 2022 08:57:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/open_vpn_rating/</guid>
-      <description>OpenVPN Dark Pattern Okay, so giving the OpenVPN app five stars takes me straight to the App Store. But for anything less, they want me to &amp;ldquo;take a survey&amp;rdquo; 🥵.&#xA;Sure, rate the app. No way, Jose, take a survey. </description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dark Pattern on S/1999 U 2</title>
+		<link>https://s1999u2.github.io/blog/dark-pattern/</link>
+		<description>Recent content in Dark Pattern on S/1999 U 2</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>Copyright © 2022, Stefanus Secundus.</copyright>
+		
+		
+			<lastBuildDate>Tue, 30 May 2023 08:21:00 +0100</lastBuildDate>
+		
+			<atom:link href="https://s1999u2.github.io/blog/dark-pattern/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apple&#39;s Privileges</title>
+				<link>https://s1999u2.github.io/annoyances/app_store_ads_4/</link>
+				<pubDate>Tue, 30 May 2023 08:21:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/app_store_ads_4/</guid>
+				<description>&lt;h1 id=&#34;apples-privileges&#34;&gt;Apple&amp;rsquo;s Privileges&lt;/h1&gt;&#xA;&lt;p&gt;Since iOS and the App Store are Apple&amp;rsquo;s own platforms it gets special privileges and doesn&amp;rsquo;t have to follow its own rules.&#xA;Ever seen any third-party app getting such a nice screen asking for permissions?&lt;/p&gt;&#xA;&lt;p&gt;And how about the dark pattern highlighting the &lt;em&gt;Enable Notifications&lt;/em&gt;…&lt;/p&gt;&#xA;&lt;p&gt;Also: &lt;em&gt;Not Now&lt;/em&gt;? How about never?&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/app_store_4.png&#34; alt=&#34;Apple asking for notifications permissions in the App Store.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Apple gets special treatment when asking for permissions.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>OpenVPN Dark Pattern</title>
+				<link>https://s1999u2.github.io/annoyances/open_vpn_rating/</link>
+				<pubDate>Thu, 01 Dec 2022 08:57:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/open_vpn_rating/</guid>
+				<description>&lt;h1 id=&#34;openvpn-dark-pattern&#34;&gt;OpenVPN Dark Pattern&lt;/h1&gt;&#xA;&lt;p&gt;Okay, so giving the OpenVPN app five stars takes me straight to the App Store. But for anything less, they want me to &amp;ldquo;take a survey&amp;rdquo; 🥵.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apps/open_vpn_5-stars.png&#34; alt=&#34;Giving the OpenVPN app five stars.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Sure, rate the app.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apps/open_vpn_4-stars.png&#34; alt=&#34;Giving the OpenVPN app four stars.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;No way, Jose, take a survey.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+	</channel>
 </rss>

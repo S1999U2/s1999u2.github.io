@@ -1,223 +1,250 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>S/1999 U 2</title>
-    <link>https://s1999u2.github.io/</link>
-    <description>Recent content on S/1999 U 2</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Fri, 14 Jul 2023 22:16:55 +0100</lastBuildDate>
-    <atom:link href="https://s1999u2.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Magnet is Damaged</title>
-      <link>https://s1999u2.github.io/annoyances/macos_magnet_is_damaged/</link>
-      <pubDate>Fri, 14 Jul 2023 22:16:55 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/macos_magnet_is_damaged/</guid>
-      <description>Magnet is Damaged Magnet is a nifty little app that allows Mac users to use Windows-style window snapping1.&#xA;But: I installed Magnet from the App Store, and I&amp;rsquo;m running a current Mac and the latest macOS – how can an app get damaged so that the only way to fix it is to reinstall it? I certainly never had any issue like this on an iPhone.&#xA;If Apple knows exactly how to fix it and Apple runs the App Store – why don&amp;rsquo;t they simply reinstall it?</description>
-    </item>
-    <item>
-      <title>Barclays and the Notch</title>
-      <link>https://s1999u2.github.io/annoyances/barclays_layout/</link>
-      <pubDate>Tue, 11 Jul 2023 13:25:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/barclays_layout/</guid>
-      <description>Barclays and the Notch The iPhone X with the notch was released in November 2017, that&amp;rsquo;s more than 5.5 years ago. Somehow Barclays hasn&amp;rsquo;t gotten the news yet 🙄.&#xA;The Barclays banking app doesn&amp;rsquo;t respect. </description>
-    </item>
-    <item>
-      <title>Hey Siri, What&#39;s Commodity in German?</title>
-      <link>https://s1999u2.github.io/annoyances/siri_translation/</link>
-      <pubDate>Tue, 04 Jul 2023 18:20:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/siri_translation/</guid>
-      <description>Hey Siri, What&amp;rsquo;s Commodity in German? Siri:&#xA;You can translate in Translate to German and many other languages.&#xA;Thank&amp;rsquo;s for nothing…&#xA;Siri unwilling to translate. </description>
-    </item>
-    <item>
-      <title>Apple Weather Location Permissions</title>
-      <link>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</link>
-      <pubDate>Wed, 28 Jun 2023 15:38:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</guid>
-      <description>Apple Weather Location Permissions Steve Jobs, in an interview at the D8 conference in June 2010:&#xA;Privacy means people know what they’re signing up for, in plain English and repeatedly&#xA;Of course, I want to know if an app tracks my location. But isn&amp;rsquo;t this getting a bit excessive? Besides, I&amp;rsquo;m sure I&amp;rsquo;ve already given Weather the Always Allow permission several times.&#xA;Weather has used your location 454 times in the background over the past 3 days.</description>
-    </item>
-    <item>
-      <title>Hey Siri, Remind Me to…</title>
-      <link>https://s1999u2.github.io/annoyances/siri_reminder/</link>
-      <pubDate>Tue, 27 Jun 2023 16:09:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/siri_reminder/</guid>
-      <description>Hey Siri, Remind Me to… Hey Siri, remind me to finish the exam and announcement when I get to work&#xA;Siri:&#xA;OK, Intercom to all&#xA;I’ve created literally thousands of reminders with Siri. Siri correctly transcribed my instructions. For no apparent reason Siri utterly fails to set a reminder and sends my query to all the people in my home.&#xA;Intercom and remind me don’t even sound vaguely similar (neither in German nor in English).</description>
-    </item>
-    <item>
-      <title>iOS Control Center</title>
-      <link>https://s1999u2.github.io/annoyances/ios_control_center/</link>
-      <pubDate>Wed, 21 Jun 2023 20:00:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/ios_control_center/</guid>
-      <description>Apple Sweats the Details This is on iOS 16.5.1, btw. So we&amp;rsquo;re 15 releases into the iOS 16 cycle.&#xA;15 releases in, iOS 16 is still glitchy. </description>
-    </item>
-    <item>
-      <title>iOS 16.5 is Still Buggy</title>
-      <link>https://s1999u2.github.io/annoyances/ios_16_rotation/</link>
-      <pubDate>Fri, 02 Jun 2023 22:12:32 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/ios_16_rotation/</guid>
-      <description>iOS 16.5 is Still Buggy After 16 years of working (more or less) flawlessly, iOS 16 breaks basic functionalities. With iOS 16.5 we&amp;rsquo;re 8 months into the iOS 16 release&#xA;Screen rotation is still broken in iOS 16.5. </description>
-    </item>
-    <item>
-      <title>Apple&#39;s Privileges</title>
-      <link>https://s1999u2.github.io/annoyances/app_store_ads_4/</link>
-      <pubDate>Tue, 30 May 2023 08:21:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/app_store_ads_4/</guid>
-      <description>Apple&amp;rsquo;s Privileges Since iOS and the App Store are Apple&amp;rsquo;s own platforms it gets special privileges and doesn&amp;rsquo;t have to follow its own rules. Ever seen any third-party app getting such a nice screen asking for permissions?&#xA;And how about the dark pattern highlighting the Enable Notifications…&#xA;Also: Not Now? How about never?&#xA;Apple gets special treatment when asking for permissions. </description>
-    </item>
-    <item>
-      <title>Optimizing Your Mac</title>
-      <link>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</link>
-      <pubDate>Sun, 21 May 2023 08:58:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</guid>
-      <description>Optimizing Your Mac A few days ago, I set up my newly purchased MacBook. So far, so good, but what does &amp;ldquo;Optimizing Your Mac&amp;rdquo; mean? I certainly didn&amp;rsquo;t notice any decreased performance or battery life, and I have some idea what it might be doing. But wouldn&amp;rsquo;t it be convenient to provide some more details? Or maybe even see what my Mac is doing?&#xA;Optimizing Your Mac. </description>
-    </item>
-    <item>
-      <title>Hey Siri, Hallway Light Off</title>
-      <link>https://s1999u2.github.io/annoyances/siri_turn_off_lights_2/</link>
-      <pubDate>Wed, 10 May 2023 13:39:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/siri_turn_off_lights_2/</guid>
-      <description>Hey Siri, Hallway Light Off Siri:&#xA;Please confirm: you want to turn off this device?&#xA;Fool me once…&#xA;Again: this used to work flawlessly for years. 🤷&#xA;Siri forgot how to turn off my hallway lights. </description>
-    </item>
-    <item>
-      <title>Hey Siri, Turn off the Bedroom Light</title>
-      <link>https://s1999u2.github.io/annoyances/siri_turn_off_lights_1/</link>
-      <pubDate>Thu, 04 May 2023 21:03:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/siri_turn_off_lights_1/</guid>
-      <description>Hey Siri, Turn off the Bedroom Light Siri:&#xA;Please confirm: you want to turn off this device?&#xA;You’d be surprised to learn that confirming then turns off the iPhone 🤦‍♂️&#xA;Why Siri? This used to work for the last 4 years 🤦‍♂️&#xA;Siri forgot how to turn off my bedroom lights. </description>
-    </item>
-    <item>
-      <title>Important Carrier Message</title>
-      <link>https://s1999u2.github.io/annoyances/apple_watch_carrier_message/</link>
-      <pubDate>Thu, 04 May 2023 11:39:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/apple_watch_carrier_message/</guid>
-      <description>Important Carrier Message Hmm, okay. Not sure what to do with this. My iPhone didn&amp;rsquo;t show anything, for sure.&#xA;Apple Watch showing it&amp;rsquo;s limitations once again. </description>
-    </item>
-    <item>
-      <title>App Store Dark Patterns</title>
-      <link>https://s1999u2.github.io/annoyances/app_store_ads_3/</link>
-      <pubDate>Thu, 27 Apr 2023 08:55:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/app_store_ads_3/</guid>
-      <description>Services are Apples Next Big Business No, I didn&amp;rsquo;t want notifications the first time you asked. Or the second time. So no, I still don&amp;rsquo;t want any notifications, even if you put them inline with the content.&#xA;Apple sneakily trying to spam me. </description>
-    </item>
-    <item>
-      <title>Hey Siri, What’s the Weather Like in Tokyo?</title>
-      <link>https://s1999u2.github.io/annoyances/siri_tokyo/</link>
-      <pubDate>Tue, 11 Apr 2023 10:01:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/siri_tokyo/</guid>
-      <description>Hey Siri, What’s the Weather Like in Tokyo? Siri:&#xA;Here is the weather for Tokio, United States.&#xA;Obviously, people refer to Tokio, North Dakota (or Tokio, Texas) when they say &amp;ldquo;Tokyo.&amp;rdquo; (Even most of the US doesn&amp;rsquo;t refer to any of those two 🤷).&#xA;How is this still a problem?&#xA;Siri giving irrelevant results. </description>
-    </item>
-    <item>
-      <title>App Store Ads for Installed Apps</title>
-      <link>https://s1999u2.github.io/annoyances/app_store_ads_2/</link>
-      <pubDate>Sun, 26 Mar 2023 14:37:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/app_store_ads_2/</guid>
-      <description>Apple Knows How to Make the App Store a Premium Experience First, Apple is explicitly showing me something I&amp;rsquo;m not looking for.&#xA;Second, Apple knows Audible is already installed and decides to show me the ad anyway.&#xA;Apple Knows How to Make the App Store a Premium Experience. </description>
-    </item>
-    <item>
-      <title>Books I Read in 2023</title>
-      <link>https://s1999u2.github.io/books-i-read-in-2023/</link>
-      <pubDate>Sun, 12 Mar 2023 12:00:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/books-i-read-in-2023/</guid>
-      <description>Continuing from Books I Read in 2022, I want to provide a brief overview of the books I read in 2023. Last year, I spent a significant amount of time commuting and traveling for business, affording me ample opportunity to dive into books. As an agonizingly slow reader, my go-to choice for the past two years has been audiobooks. I anticipate a less hectic 2024, so I&amp;rsquo;m not setting a goal to read as many books this year.</description>
-    </item>
-    <item>
-      <title>Things I Learned in 2023</title>
-      <link>https://s1999u2.github.io/things-i-learned-in-2023/</link>
-      <pubDate>Fri, 10 Mar 2023 19:58:12 +0100</pubDate>
-      <guid>https://s1999u2.github.io/things-i-learned-in-2023/</guid>
-      <description>More than two months into the new year, but better late than never, here is Things I Learned in 2023. This marks the fourth installment of my annual review, officially making it a series. As always, what follows are some surprising, entertaining, or enlightening things I stumbled upon in 2023.&#xA;South Korea has a unique way of counting a person&amp;rsquo;s age 🇰🇷👴. South Korea has enacted a new law that modifies the method for calculating ages, transitioning from the traditional &amp;ldquo;Korean age&amp;rdquo; system to the international standard.</description>
-    </item>
-    <item>
-      <title>App Store Ads for the Top Result</title>
-      <link>https://s1999u2.github.io/annoyances/app_store_ads_1/</link>
-      <pubDate>Sun, 05 Mar 2023 19:30:03 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/app_store_ads_1/</guid>
-      <description>Ads Are Ruining the App Store Hey, wouldn&amp;rsquo;t it be cool if Apple didn&amp;rsquo;t show the app I&amp;rsquo;m searching for both as a giant ad and as a search result?1&#xA;Ads are ruining Apple&amp;rsquo;s App Store. I understand that Crunchy Bagel, the app developer, is not to blame. I genuinely adore Streaks and all of the other apps they offer. You should definitely check them out.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-    </item>
-    <item>
-      <title>Apple Watch Update</title>
-      <link>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</link>
-      <pubDate>Thu, 23 Feb 2023 20:10:05 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</guid>
-      <description>Apple Watch Update You can resume the download when you are connected to a Wi-Fi network.&#xA;Ookay… So is the Watch app broken and unwilling to update. Or is my iPhone lying to me and I’m not connected to Wi-Fi?&#xA;Apple Watch requires Wi-Fi to update. </description>
-    </item>
-    <item>
-      <title>Hey Siri, How Much is 166 Miles?</title>
-      <link>https://s1999u2.github.io/annoyances/siri_166_miles/</link>
-      <pubDate>Tue, 07 Feb 2023 12:00:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/siri_166_miles/</guid>
-      <description>Hey Siri, How Much is 166 Miles? Siri:&#xA;Nothing with the title „&amp;ldquo;miles&amp;rdquo; is planned between January 1, 166, and December 31, 166.&#xA;Siri forgot how to convert units. </description>
-    </item>
-    <item>
-      <title>1Password 8 is Great</title>
-      <link>https://s1999u2.github.io/annoyances/1password_suggestion/</link>
-      <pubDate>Thu, 02 Feb 2023 13:26:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/1password_suggestion/</guid>
-      <description>1Password 8 is Great Best autofill suggestion ever&#xA;1Password giving useless autofill suggestions. </description>
-    </item>
-    <item>
-      <title>Books I Read in 2022</title>
-      <link>https://s1999u2.github.io/books-i-read-in-2022/</link>
-      <pubDate>Wed, 01 Feb 2023 19:58:12 +0100</pubDate>
-      <guid>https://s1999u2.github.io/books-i-read-in-2022/</guid>
-      <description>I&amp;rsquo;m glad I got into reading more books again in 2022. The internet and YouTube, in particular, have such a strong pull that I almost have to force myself to take time and dedicate myself to reading something longer than an article. Also, I&amp;rsquo;m a terribly slow reader, which is just unbearable when I see people casually reading twice as fast as me. Still, I found great satisfaction in committing and extending my attention span beyond the instant rewards of today&amp;rsquo;s internet.</description>
-    </item>
-    <item>
-      <title>Hey Siri, What is 0.99 &#43; 2.19…</title>
-      <link>https://s1999u2.github.io/annoyances/siri_calculator/</link>
-      <pubDate>Tue, 24 Jan 2023 17:19:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/siri_calculator/</guid>
-      <description>Hey Siri, What is 0.99 + 2.19… Hey Siri, what is 0.99 + 2.19 + 0.89 + 5.98 + 2.29?&#xA;Siri:&#xA;I found 36 calls.&#xA;After all these years, Siri always surprises me with some random answers.&#xA;Siri fails to do basic calculations. </description>
-    </item>
-    <item>
-      <title>Things I Learned in 2022</title>
-      <link>https://s1999u2.github.io/things-i-learned-in-2022/</link>
-      <pubDate>Sun, 01 Jan 2023 19:58:12 +0100</pubDate>
-      <guid>https://s1999u2.github.io/things-i-learned-in-2022/</guid>
-      <description>Welcome to &amp;ldquo;Things I Learned in 2022&amp;rdquo;! In this post, I&amp;rsquo;ll be sharing a list of things that stood out to me as I read and listened to various sources throughout the year. These are things that I found noteworthy and thought-provoking, and I&amp;rsquo;ve included sources for each item as well as summaries of the linked articles or topics for those who are interested in more than just the headline. If you happen to notice any errors, you can reach me on Mastodon at @Secundus@home.</description>
-    </item>
-    <item>
-      <title>OpenVPN Dark Pattern</title>
-      <link>https://s1999u2.github.io/annoyances/open_vpn_rating/</link>
-      <pubDate>Thu, 01 Dec 2022 08:57:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/open_vpn_rating/</guid>
-      <description>OpenVPN Dark Pattern Okay, so giving the OpenVPN app five stars takes me straight to the App Store. But for anything less, they want me to &amp;ldquo;take a survey&amp;rdquo; 🥵.&#xA;Sure, rate the app. No way, Jose, take a survey. </description>
-    </item>
-    <item>
-      <title>ML-based Autocorrect Sucks</title>
-      <link>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</link>
-      <pubDate>Tue, 01 Nov 2022 09:00:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</guid>
-      <description>ML-based Autocorrect Sucks I get wildly wrong predictions since Apple added machine learning-based predictions to its autocorrection/text completion. Why on earth would the German equivalent of „well then it’s…“ logically be completed to „iStateOfMind3“ 🤷? I don’t have an app with that name installed, and as far as I know, I never had one.&#xA;iOS keyboard giving wildly wrong suggestions.. </description>
-    </item>
-    <item>
-      <title>Hey Siri, When is Calendar Week 26 2023?</title>
-      <link>https://s1999u2.github.io/annoyances/siri_calendar_week/</link>
-      <pubDate>Sat, 27 Aug 2022 22:19:37 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/siri_calendar_week/</guid>
-      <description>Hey Siri, When is Calendar Week 26 2023? Siri:&#xA;It is Saturday, August 27, 2022.&#xA;Okay 🙄&#xA;Siri forgot how to tell calendar weeks. </description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>https://s1999u2.github.io/annoyances/hello_world/</link>
-      <pubDate>Mon, 01 Aug 2022 20:03:03 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/hello_world/</guid>
-      <description>Annoyances I know technology is amazing and many things are moving at a neckbreaking speed. Still, from time to time we get frustrated with the devices and services surrounding our daily lives.&#xA;As an homage to Annoying Technology and to blow off steam when Siri fails me in surprising new ways yet again this page is for some light hearted annoyances1. Besides, someone has to be the chronicler of the ever-advancing enshitification 😉</description>
-    </item>
-    <item>
-      <title>Things I Learned in 2021</title>
-      <link>https://s1999u2.github.io/things-i-learned-in-2021/</link>
-      <pubDate>Sat, 01 Jan 2022 19:58:12 +0100</pubDate>
-      <guid>https://s1999u2.github.io/things-i-learned-in-2021/</guid>
-      <description>Introduction Welcome to &amp;ldquo;Things I Learned in 2021&amp;rdquo;! For the second year now, here are noteworthy things that stood out to me during last year.&#xA;Hippocampal replay is a phenomenon observed in animals where sequences of cell activations in the hippocampus, a brain region associated with memory and spatial navigation, re-occur during sleep or awake rest at a much faster time scale 🧠🐈🐀⏰. Hippocampal replay is a phenomenon observed in animals where sequences of cell activations in the hippocampus, a brain region associated with memory and spatial navigation, re-occur during sleep at a much faster time scale than during the original activity.</description>
-    </item>
-    <item>
-      <title>Things I Learned in 2020</title>
-      <link>https://s1999u2.github.io/things-i-learned-in-2020/</link>
-      <pubDate>Fri, 01 Jan 2021 19:58:12 +0100</pubDate>
-      <guid>https://s1999u2.github.io/things-i-learned-in-2020/</guid>
-      <description>In this blog post, I&amp;rsquo;ll share some of the interesting and unexpected things I came across on the internet in 2020. Without further ado, here are the 25 things that stood out to me.&#xA;Brown is not a color, and there is no brown light 🟤🙅‍♂️🎨.&#xA;The temperature and atmospheric pressure on Earth can vary greatly across its surface. However, there are lines around the Earth called Isothermal lines and Isobar lines where the temperature and pressure are the same.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Blog on S/1999 U 2</title>
+		<link>https://s1999u2.github.io/</link>
+		<description>Recent content in Blog on S/1999 U 2</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>Copyright © 2022, Stefanus Secundus.</copyright>
+		
+		
+			<lastBuildDate>Wed, 01 Jan 2025 19:58:12 +0100</lastBuildDate>
+		
+			<atom:link href="https://s1999u2.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>https://s1999u2.github.io/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://s1999u2.github.io/about/</guid>
+				<description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;&#xA;&lt;p&gt;Hey 👋&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Stefan, an alumnus of Leibniz University Hannover 👨‍🎓.&#xA;Aside from my day to day job im love tinkering with new things, be that writing code, trying new gadgets or cooking.&lt;/p&gt;&#xA;&lt;p&gt;On this website, you&amp;rsquo;ll find a demo of some of the things I&amp;rsquo;m working on as well as a &lt;a href=&#34;https://s1999u2.github.io/blog&#34;&gt;blog section&lt;/a&gt; where I&amp;rsquo;ll be sharing my thoughts and musings. The exact topics have not yet been set. And although I&amp;rsquo;m not planning on blogging regularly, I&amp;rsquo;ll be using the blog to experiment and fiddle around with different ideas 🙃.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Things I Learned in 2025</title>
+				<link>https://s1999u2.github.io/things-i-learned-in-2025/</link>
+				<pubDate>Wed, 01 Jan 2025 19:58:12 +0100</pubDate>
+				<guid>https://s1999u2.github.io/things-i-learned-in-2025/</guid>
+				<description>&lt;p&gt;With 2025 behind us, the numbers look bleak. My five-year average for &amp;ldquo;Things I Learned&amp;rdquo; is 61 factoids, but last year fewer than 20 items made it onto the list.&#xA;Not to worry, though: 2026 is on track to return to the greatness of yore.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20250331221900/https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold&#34;&gt;The white stuff in your cheese isn&amp;rsquo;t mold (and it isn&amp;rsquo;t &amp;ldquo;salt crystals&amp;rdquo;) 🧀&lt;/a&gt;&#xA;Different cheeses form different crystals. Aged cheddar and Gouda often develop calcium lactate crystals on the surface as calcium salts migrate and recrystallize. Washed-rind cheeses may show salt crystals from surface treatments. Long-aged hard cheeses such as Parmigiano-Reggiano and Grana Padano (and also aged Gouda) can develop tyrosine crystals within the paste. Tyrosine is an amino acid released during proteolysis as casein breaks down during aging, and its low solubility makes it prone to crystallize.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Things I Learned in 2024</title>
+				<link>https://s1999u2.github.io/things-i-learned-in-2024/</link>
+				<pubDate>Mon, 01 Jan 2024 19:58:12 +0100</pubDate>
+				<guid>https://s1999u2.github.io/things-i-learned-in-2024/</guid>
+				<description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0305440317301322&#34;&gt;Bronze Age iron artifacts likely originated from meteorites, not from smelting terrestrial iron 🏆☄️&lt;/a&gt;. A geochemical approach using Fe:Co:Ni ratios can distinguish terrestrial from extraterrestrial iron. Modern iron and iron ores have distinct Fe:Co:Ni ratios compared to those found in Bronze Age artifacts.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.npr.org/sections/thetwo-way/2017/12/28/574044232/how-pirates-of-the-caribbean-hijacked-americas-metric-system&#34;&gt;The U.S. never adopted the metric system due to Caribbean pirates 📐🏴‍☠️.&lt;/a&gt;&#xA;When the U.S. was considering standardizing measurements, Thomas Jefferson arranged for French scientist Joseph Dombey to deliver a kilogram standard. British privateers intercepted Dombey in the Caribbean, leading to his capture and eventual death. The kilogram standard reached the U.S. too late to influence the metric system’s adoption.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Magnet is Damaged</title>
+				<link>https://s1999u2.github.io/annoyances/macos_magnet_is_damaged/</link>
+				<pubDate>Fri, 14 Jul 2023 22:16:55 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/macos_magnet_is_damaged/</guid>
+				<description>&lt;h1 id=&#34;magnet-is-damaged&#34;&gt;Magnet is Damaged&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://magnet.crowdcafe.com&#34;&gt;Magnet&lt;/a&gt; is a nifty little app that allows Mac users to use Windows-style window snapping&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;&#xA;&lt;p&gt;But: I installed Magnet from the App Store, and I&amp;rsquo;m running a current Mac and the latest macOS – how can an app get &lt;em&gt;damaged&lt;/em&gt; so that the only way to fix it is to reinstall it? I certainly never had any issue like this on an iPhone.&lt;/p&gt;&#xA;&lt;p&gt;If Apple knows exactly how to fix it and Apple runs the App Store – why don&amp;rsquo;t they simply reinstall it? I mean isn&amp;rsquo;t an automatic app update more or less the same?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Barclays and the Notch</title>
+				<link>https://s1999u2.github.io/annoyances/barclays_layout/</link>
+				<pubDate>Tue, 11 Jul 2023 13:25:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/barclays_layout/</guid>
+				<description>&lt;h1 id=&#34;barclays-and-the-notch&#34;&gt;Barclays and the Notch&lt;/h1&gt;&#xA;&lt;p&gt;The iPhone X with &lt;a href=&#34;https://www.theverge.com/2017/9/14/16306298/apple-iphone-x-screen-notch&#34;&gt;the notch&lt;/a&gt; was released in November 2017, that&amp;rsquo;s more than 5.5 years ago. Somehow Barclays hasn&amp;rsquo;t gotten the news yet 🙄.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apps/barclays_layout.png&#34; alt=&#34;The Barclays banking app doesn&amp;rsquo;t respect.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;The Barclays banking app doesn&amp;rsquo;t respect.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Hey Siri, What&#39;s Commodity in German?</title>
+				<link>https://s1999u2.github.io/annoyances/siri_translation/</link>
+				<pubDate>Tue, 04 Jul 2023 18:20:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/siri_translation/</guid>
+				<description>&lt;h1 id=&#34;hey-siri-whats-commodity-in-german&#34;&gt;Hey Siri, What&amp;rsquo;s &lt;em&gt;Commodity&lt;/em&gt; in German?&lt;/h1&gt;&#xA;&lt;p&gt;Siri:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;You can translate in Translate to German and many other languages.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Thank&amp;rsquo;s for nothing…&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/siri_8.png&#34; alt=&#34;Siri unwilling to translate.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Siri unwilling to translate.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Apple Weather Location Permissions</title>
+				<link>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</link>
+				<pubDate>Wed, 28 Jun 2023 15:38:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</guid>
+				<description>&lt;h1 id=&#34;apple-weather-location-permissions&#34;&gt;Apple Weather Location Permissions&lt;/h1&gt;&#xA;&lt;p&gt;Steve Jobs, in an interview at the D8 conference in June 2010:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Privacy means people know what they’re signing up for, in plain English and repeatedly&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Of course, I want to know if an app tracks my location. But isn&amp;rsquo;t this getting a bit excessive? Besides, I&amp;rsquo;m sure I&amp;rsquo;ve already given Weather the &lt;em&gt;Always Allow&lt;/em&gt; permission several times.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/apple_weather_location_permissions.png&#34; alt=&#34;Weather has used your location 454 times in the background over the past 3 days.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Weather has used your location 454 times in the background over the past 3 days.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Hey Siri, Remind Me to…</title>
+				<link>https://s1999u2.github.io/annoyances/siri_reminder/</link>
+				<pubDate>Tue, 27 Jun 2023 16:09:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/siri_reminder/</guid>
+				<description>&lt;h1 id=&#34;hey-siri-remind-me-to&#34;&gt;Hey Siri, Remind Me to…&lt;/h1&gt;&#xA;&lt;p&gt;Hey Siri, remind me to finish the exam and announcement when I get to work&lt;/p&gt;&#xA;&lt;p&gt;Siri:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;OK, Intercom to all&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I’ve created literally thousands of reminders with Siri. Siri correctly transcribed my instructions. For no apparent reason Siri utterly fails to set a reminder and sends my query to all the people in my home.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Intercom&lt;/em&gt; and &lt;em&gt;remind me&lt;/em&gt; don’t even sound vaguely similar (neither in German nor in English). 🗣&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>iOS Control Center</title>
+				<link>https://s1999u2.github.io/annoyances/ios_control_center/</link>
+				<pubDate>Wed, 21 Jun 2023 20:00:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/ios_control_center/</guid>
+				<description>&lt;h1 id=&#34;apple-sweats-the-details&#34;&gt;Apple Sweats the Details&lt;/h1&gt;&#xA;&lt;p&gt;This is on iOS 16.5.1, btw. So we&amp;rsquo;re 15 releases into the iOS 16 cycle.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/ios_control_center.png&#34; alt=&#34;The iOS Control Center is glitching.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;15 releases in, iOS 16 is still glitchy.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>iOS 16.5 is Still Buggy</title>
+				<link>https://s1999u2.github.io/annoyances/ios_16_rotation/</link>
+				<pubDate>Fri, 02 Jun 2023 22:12:32 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/ios_16_rotation/</guid>
+				<description>&lt;h1 id=&#34;ios-165-is-still-buggy&#34;&gt;iOS 16.5 is Still Buggy&lt;/h1&gt;&#xA;&lt;p&gt;After 16 years of working (more or less) flawlessly, iOS 16 breaks basic functionalities. With iOS 16.5 we&amp;rsquo;re 8 months into the iOS 16 release&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/ios_16_rotation_bug.png&#34; alt=&#34;Screen rotation being broken in iOS 16.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Screen rotation is still broken in iOS 16.5.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Apple&#39;s Privileges</title>
+				<link>https://s1999u2.github.io/annoyances/app_store_ads_4/</link>
+				<pubDate>Tue, 30 May 2023 08:21:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/app_store_ads_4/</guid>
+				<description>&lt;h1 id=&#34;apples-privileges&#34;&gt;Apple&amp;rsquo;s Privileges&lt;/h1&gt;&#xA;&lt;p&gt;Since iOS and the App Store are Apple&amp;rsquo;s own platforms it gets special privileges and doesn&amp;rsquo;t have to follow its own rules.&#xA;Ever seen any third-party app getting such a nice screen asking for permissions?&lt;/p&gt;&#xA;&lt;p&gt;And how about the dark pattern highlighting the &lt;em&gt;Enable Notifications&lt;/em&gt;…&lt;/p&gt;&#xA;&lt;p&gt;Also: &lt;em&gt;Not Now&lt;/em&gt;? How about never?&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/app_store_4.png&#34; alt=&#34;Apple asking for notifications permissions in the App Store.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Apple gets special treatment when asking for permissions.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Optimizing Your Mac</title>
+				<link>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</link>
+				<pubDate>Sun, 21 May 2023 08:58:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</guid>
+				<description>&lt;h1 id=&#34;optimizing-your-mac&#34;&gt;Optimizing Your Mac&lt;/h1&gt;&#xA;&lt;p&gt;A few days ago, I set up my newly purchased MacBook. So far, so good, but what does &amp;ldquo;Optimizing Your Mac&amp;rdquo; mean? I certainly didn&amp;rsquo;t notice any decreased performance or battery life, and I have some idea what it might be doing. But wouldn&amp;rsquo;t it be convenient to provide some more details? Or maybe even see what my Mac is doing?&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/macos_optimizing_mac.png&#34; alt=&#34;Optimizing Your Mac.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Optimizing Your Mac.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Hey Siri, Hallway Light Off</title>
+				<link>https://s1999u2.github.io/annoyances/siri_turn_off_lights_2/</link>
+				<pubDate>Wed, 10 May 2023 13:39:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/siri_turn_off_lights_2/</guid>
+				<description>&lt;h1 id=&#34;hey-siri-hallway-light-off&#34;&gt;Hey Siri, Hallway Light Off&lt;/h1&gt;&#xA;&lt;p&gt;Siri:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Please confirm: you want to turn off this device?&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Fool me &lt;a href=&#34;https://s1999u2.github.io/annoyances/siri_turn_off_lights/&#34;&gt;once…&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Again: this used to work flawlessly for &lt;em&gt;years&lt;/em&gt;. 🤷&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/siri_4.png&#34; alt=&#34;Please confirm: you want to turn off this device.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Siri forgot how to turn off my hallway lights.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Hey Siri, Turn off the Bedroom Light</title>
+				<link>https://s1999u2.github.io/annoyances/siri_turn_off_lights_1/</link>
+				<pubDate>Thu, 04 May 2023 21:03:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/siri_turn_off_lights_1/</guid>
+				<description>&lt;h1 id=&#34;hey-siri-turn-off-the-bedroom-light&#34;&gt;Hey Siri, Turn off the Bedroom Light&lt;/h1&gt;&#xA;&lt;p&gt;Siri:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Please confirm: you want to turn off this device?&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;You’d be surprised to learn that confirming then turns off the iPhone 🤦‍♂️&lt;/p&gt;&#xA;&lt;p&gt;Why Siri? This used to work for the last 4 years 🤦‍♂️&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/siri_1.png&#34; alt=&#34;Please confirm: you want to turn off this device.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Siri forgot how to turn off my bedroom lights.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Important Carrier Message</title>
+				<link>https://s1999u2.github.io/annoyances/apple_watch_carrier_message/</link>
+				<pubDate>Thu, 04 May 2023 11:39:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/apple_watch_carrier_message/</guid>
+				<description>&lt;h1 id=&#34;important-carrier-message&#34;&gt;Important Carrier Message&lt;/h1&gt;&#xA;&lt;p&gt;Hmm, okay. Not sure what to do with this. My iPhone didn&amp;rsquo;t show anything, for sure.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/apple_watch_carrier_message.jpg&#34; alt=&#34;Apple Watch showing an important carrier message.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Apple Watch showing it&amp;rsquo;s limitations once again.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>App Store Dark Patterns</title>
+				<link>https://s1999u2.github.io/annoyances/app_store_ads_3/</link>
+				<pubDate>Thu, 27 Apr 2023 08:55:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/app_store_ads_3/</guid>
+				<description>&lt;h1 id=&#34;services-are-apples-next-big-business&#34;&gt;&lt;em&gt;Services&lt;/em&gt; are Apples Next Big Business&lt;/h1&gt;&#xA;&lt;p&gt;No, I didn&amp;rsquo;t want notifications the first time you asked. Or the second time. So no, I &lt;em&gt;still&lt;/em&gt; don&amp;rsquo;t want any notifications, even if you put them inline with the content.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/app_store_3.png&#34; alt=&#34;Apple asking for notifications in the App Store.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Apple sneakily trying to spam me.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Hey Siri, What’s the Weather Like in Tokyo?</title>
+				<link>https://s1999u2.github.io/annoyances/siri_tokyo/</link>
+				<pubDate>Tue, 11 Apr 2023 10:01:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/siri_tokyo/</guid>
+				<description>&lt;h1 id=&#34;hey-siri-whats-the-weather-like-in-tokyo&#34;&gt;Hey Siri, What’s the Weather Like in Tokyo?&lt;/h1&gt;&#xA;&lt;p&gt;Siri:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Here is the weather for Tokio, United States.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Obviously, people refer to &lt;a href=&#34;https://en.wikipedia.org/wiki/Tokio,_North_Dakota&#34;&gt;Tokio, North Dakota&lt;/a&gt; (or &lt;a href=&#34;https://en.wikipedia.org/wiki/Tokio,_Texas&#34;&gt;Tokio, Texas&lt;/a&gt;) when they say &amp;ldquo;Tokyo.&amp;rdquo; (Even &lt;a href=&#34;https://pudding.cool/2023/03/same-name/?place=Tokio&#34;&gt;most of the US&lt;/a&gt; doesn&amp;rsquo;t refer to any of those two 🤷).&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://daringfireball.net/2020/05/what_time_is_it_in_london&#34;&gt;How is this &lt;em&gt;still&lt;/em&gt; a problem?&lt;/a&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/siri_7.png&#34; alt=&#34;Siri giving irrelevant results.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Siri giving irrelevant results.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>App Store Ads for Installed Apps</title>
+				<link>https://s1999u2.github.io/annoyances/app_store_ads_2/</link>
+				<pubDate>Sun, 26 Mar 2023 14:37:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/app_store_ads_2/</guid>
+				<description>&lt;h1 id=&#34;apple-knows-how-to-make-the-app-store-a-premium-experience&#34;&gt;Apple Knows How to Make the App Store a Premium Experience&lt;/h1&gt;&#xA;&lt;p&gt;First, Apple is explicitly showing me something I&amp;rsquo;m &lt;strong&gt;not&lt;/strong&gt; looking for.&lt;/p&gt;&#xA;&lt;p&gt;Second, Apple knows Audible is already installed and decides to show me the ad anyway.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/app_store_2.png&#34; alt=&#34;Apple shows App Store ads for apps already installed on the device.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Apple Knows How to Make the App Store a Premium Experience.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Books I Read in 2023</title>
+				<link>https://s1999u2.github.io/books-i-read-in-2023/</link>
+				<pubDate>Sun, 12 Mar 2023 12:00:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/books-i-read-in-2023/</guid>
+				<description>&lt;p&gt;Continuing from &lt;a href=&#34;https://s1999u2.github.io/books-i-read-in-2022/&#34;&gt;Books I Read in 2022&lt;/a&gt;, I want to provide a brief overview of the books I read in 2023. Last year, I spent a significant amount of time commuting and traveling for business, affording me ample opportunity to dive into books. As an agonizingly slow reader, my go-to choice for the past two years has been audiobooks. I anticipate a less hectic 2024, so I&amp;rsquo;m not setting a goal to read as many books this year.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Things I Learned in 2023</title>
+				<link>https://s1999u2.github.io/things-i-learned-in-2023/</link>
+				<pubDate>Fri, 10 Mar 2023 19:58:12 +0100</pubDate>
+				<guid>https://s1999u2.github.io/things-i-learned-in-2023/</guid>
+				<description>&lt;p&gt;More than two months into the new year, but better late than never, here is &lt;em&gt;Things I Learned in 2023&lt;/em&gt;. This marks the fourth installment of my annual review, officially making it a series. As always, what follows are some surprising, entertaining, or enlightening things I stumbled upon in 2023.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.npr.org/2022/12/08/1141524578/south-korea-age-counting-koreans-younger&#34;&gt;South Korea has a unique way of counting a person&amp;rsquo;s age 🇰🇷👴.&lt;/a&gt;&#xA;South Korea has enacted a new law that modifies the method for calculating ages, transitioning from the traditional &amp;ldquo;Korean age&amp;rdquo; system to the international standard. Currently, South Korea employs three age-counting systems, yet the majority of citizens follow the &amp;ldquo;Korean age,&amp;rdquo; wherein a person is considered 1 year old at birth and gains an additional year on every New Year&amp;rsquo;s Day. Consequently, a baby born on Dec. 31 would be regarded as 2 years old the following day.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>App Store Ads for the Top Result</title>
+				<link>https://s1999u2.github.io/annoyances/app_store_ads_1/</link>
+				<pubDate>Sun, 05 Mar 2023 19:30:03 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/app_store_ads_1/</guid>
+				<description>&lt;h1 id=&#34;ads-are-ruining-the-app-store&#34;&gt;Ads Are Ruining the App Store&lt;/h1&gt;&#xA;&lt;p&gt;Hey, wouldn&amp;rsquo;t it be cool if Apple didn&amp;rsquo;t show the app I&amp;rsquo;m searching for both as a giant ad and as a search result?&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/app_store_1.png&#34; alt=&#34;Ads are ruining Apple&amp;rsquo;s App Store.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Ads are ruining Apple&amp;rsquo;s App Store.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;I understand that Crunchy Bagel, the app developer, is not to blame. I genuinely adore &lt;a href=&#34;https://streaks.app&#34;&gt;Streaks&lt;/a&gt; and all of the &lt;a href=&#34;https://crunchybagel.com/about/&#34;&gt;other apps&lt;/a&gt; they offer. You should definitely check them out.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Apple Watch Update</title>
+				<link>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</link>
+				<pubDate>Thu, 23 Feb 2023 20:10:05 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</guid>
+				<description>&lt;h1 id=&#34;apple-watch-update&#34;&gt;Apple Watch Update&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;You can resume the download when you are connected to a Wi-Fi network.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Ookay…&#xA;So is the &lt;em&gt;Watch&lt;/em&gt; app broken and unwilling to update. Or is my iPhone lying to me and I’m not connected to Wi-Fi?&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/ios_apple_watch_update.png&#34; alt=&#34;Apple Watch requires Wi-Fi to update.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Apple Watch requires Wi-Fi to update.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Hey Siri, How Much is 166 Miles?</title>
+				<link>https://s1999u2.github.io/annoyances/siri_166_miles/</link>
+				<pubDate>Tue, 07 Feb 2023 12:00:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/siri_166_miles/</guid>
+				<description>&lt;h1 id=&#34;hey-siri-how-much-is-166-miles&#34;&gt;Hey Siri, How Much is 166 Miles?&lt;/h1&gt;&#xA;&lt;p&gt;Siri:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Nothing with the title „&amp;ldquo;miles&amp;rdquo; is planned between January 1, 166, and December 31, 166.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/siri_3.jpg&#34; alt=&#34;Hey Siri, How Much is 166 Miles?&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Siri forgot how to convert units.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>1Password 8 is Great</title>
+				<link>https://s1999u2.github.io/annoyances/1password_suggestion/</link>
+				<pubDate>Thu, 02 Feb 2023 13:26:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/1password_suggestion/</guid>
+				<description>&lt;h1 id=&#34;1password-8-is-great&#34;&gt;1Password 8 is Great&lt;/h1&gt;&#xA;&lt;p&gt;Best autofill suggestion ever&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apps/1password_suggestion.png&#34; alt=&#34;1Password giving useless autofill suggestions.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;1Password giving useless autofill suggestions.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Books I Read in 2022</title>
+				<link>https://s1999u2.github.io/books-i-read-in-2022/</link>
+				<pubDate>Wed, 01 Feb 2023 19:58:12 +0100</pubDate>
+				<guid>https://s1999u2.github.io/books-i-read-in-2022/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m glad I got into reading more books again in 2022. The internet and YouTube, in particular, have such a strong pull that I almost have to force myself to take time and dedicate myself to reading something longer than an article. Also, I&amp;rsquo;m a terribly slow reader, which is just unbearable when I see people casually reading twice as fast as me. Still, I found great satisfaction in committing and extending my attention span beyond the instant rewards of today&amp;rsquo;s internet.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Hey Siri, What is 0.99 &#43; 2.19…</title>
+				<link>https://s1999u2.github.io/annoyances/siri_calculator/</link>
+				<pubDate>Tue, 24 Jan 2023 17:19:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/siri_calculator/</guid>
+				<description>&lt;h1 id=&#34;hey-siri-what-is-099--219&#34;&gt;Hey Siri, What is 0.99 + 2.19…&lt;/h1&gt;&#xA;&lt;p&gt;Hey Siri, what is 0.99 + 2.19 + 0.89 + 5.98 + 2.29?&lt;/p&gt;&#xA;&lt;p&gt;Siri:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I found 36 calls.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;After all these years, Siri always surprises me with some random answers.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/siri_6.png&#34; alt=&#34;Siri fails  to do basic calculations.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Siri fails to do basic calculations.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Things I Learned in 2022</title>
+				<link>https://s1999u2.github.io/things-i-learned-in-2022/</link>
+				<pubDate>Sun, 01 Jan 2023 19:58:12 +0100</pubDate>
+				<guid>https://s1999u2.github.io/things-i-learned-in-2022/</guid>
+				<description>&lt;p&gt;Welcome to &amp;ldquo;Things I Learned in 2022&amp;rdquo;!&#xA;In this post, I&amp;rsquo;ll be sharing a list of things that stood out to me as I read and listened to various sources throughout the year. These are things that I found noteworthy and thought-provoking, and I&amp;rsquo;ve included sources for each item as well as summaries of the linked articles or topics for those who are interested in more than just the headline. If you happen to notice any errors, you can reach me on Mastodon at &lt;a href=&#34;https://home.social/@Secundus&#34;&gt;@Secundus@home.social&lt;/a&gt;. Without further ado, let&amp;rsquo;s dive into the list of 95 things I learned in 2022!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>OpenVPN Dark Pattern</title>
+				<link>https://s1999u2.github.io/annoyances/open_vpn_rating/</link>
+				<pubDate>Thu, 01 Dec 2022 08:57:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/open_vpn_rating/</guid>
+				<description>&lt;h1 id=&#34;openvpn-dark-pattern&#34;&gt;OpenVPN Dark Pattern&lt;/h1&gt;&#xA;&lt;p&gt;Okay, so giving the OpenVPN app five stars takes me straight to the App Store. But for anything less, they want me to &amp;ldquo;take a survey&amp;rdquo; 🥵.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apps/open_vpn_5-stars.png&#34; alt=&#34;Giving the OpenVPN app five stars.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Sure, rate the app.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apps/open_vpn_4-stars.png&#34; alt=&#34;Giving the OpenVPN app four stars.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;No way, Jose, take a survey.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>ML-based Autocorrect Sucks</title>
+				<link>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</link>
+				<pubDate>Tue, 01 Nov 2022 09:00:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</guid>
+				<description>&lt;h1 id=&#34;ml-based-autocorrect-sucks&#34;&gt;ML-based Autocorrect Sucks&lt;/h1&gt;&#xA;&lt;p&gt;I get wildly wrong predictions since Apple added machine learning-based predictions to its autocorrection/text completion. Why on earth would the German equivalent of „&lt;em&gt;well then it’s…&lt;/em&gt;“ logically be completed to „iStateOfMind3“ 🤷?&#xA;I don’t have an app with that name installed, and as far as I know, I never had one.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/ios_autocorrect_1.png&#34; alt=&#34;iOS keyboard giving wildly wrong suggestions.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;iOS keyboard giving wildly wrong suggestions.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Hey Siri, When is Calendar Week 26 2023?</title>
+				<link>https://s1999u2.github.io/annoyances/siri_calendar_week/</link>
+				<pubDate>Sat, 27 Aug 2022 22:19:37 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/siri_calendar_week/</guid>
+				<description>&lt;h1 id=&#34;hey-siri-when-is-calendar-week-26-2023&#34;&gt;Hey Siri, When is Calendar Week 26 2023?&lt;/h1&gt;&#xA;&lt;p&gt;Siri:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It is Saturday, August 27, 2022.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Okay 🙄&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/siri_2.png&#34; alt=&#34;Hey Siri, When is Calendar Week 26?&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Siri forgot how to tell calendar weeks.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Hello World</title>
+				<link>https://s1999u2.github.io/annoyances/hello_world/</link>
+				<pubDate>Mon, 01 Aug 2022 20:03:03 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/hello_world/</guid>
+				<description>&lt;h1 id=&#34;annoyances&#34;&gt;Annoyances&lt;/h1&gt;&#xA;&lt;p&gt;I know technology is &lt;a href=&#34;https://www.youtube.com/watch?v=kBLkX2VaQs4&#34;&gt;amazing&lt;/a&gt; and many things are moving at a neckbreaking speed.&#xA;Still, from time to time we get frustrated with the devices and services surrounding our daily lives.&lt;/p&gt;&#xA;&lt;p&gt;As an homage to &lt;a href=&#34;https://annoying.technology&#34;&gt;Annoying Technology&lt;/a&gt; and to blow off steam when Siri fails me in surprising new ways yet again this page is for some light hearted annoyances&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&#xA;Besides, someone &lt;em&gt;has&lt;/em&gt; to be the chronicler of the ever-advancing &lt;a href=&#34;https://www.wired.com/story/tiktok-platforms-cory-doctorow/&#34;&gt;enshitification&lt;/a&gt; 😉&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;Seriously – How can Siri still be &lt;em&gt;this&lt;/em&gt; bad? It&amp;rsquo;s been introduced in 2011.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Things I Learned in 2021</title>
+				<link>https://s1999u2.github.io/things-i-learned-in-2021/</link>
+				<pubDate>Sat, 01 Jan 2022 19:58:12 +0100</pubDate>
+				<guid>https://s1999u2.github.io/things-i-learned-in-2021/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to &amp;ldquo;Things I Learned in 2021&amp;rdquo;! For the second year now, here are noteworthy things that stood out to me during last year.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hippocampal_replay&#34;&gt;Hippocampal replay is a phenomenon observed in animals where sequences of cell activations in the hippocampus, a brain region associated with memory and spatial navigation, re-occur during sleep or awake rest at a much faster time scale 🧠🐈🐀⏰.&lt;/a&gt;&#xA;Hippocampal replay is a phenomenon observed in animals where sequences of cell activations in the hippocampus, a brain region associated with memory and spatial navigation, re-occur during sleep at a much faster time scale than during the original activity. This behavior is exhibited by place cells, which fire in a sequence according to the animal&amp;rsquo;s movement path. The phenomenon has been observed in various animals and linked to memory consolidation. Studies have also found instances of &lt;em&gt;preplay&lt;/em&gt;, where a sequence of activations occurs before the actual activity and replays in reverse.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Things I Learned in 2020</title>
+				<link>https://s1999u2.github.io/things-i-learned-in-2020/</link>
+				<pubDate>Fri, 01 Jan 2021 19:58:12 +0100</pubDate>
+				<guid>https://s1999u2.github.io/things-i-learned-in-2020/</guid>
+				<description>&lt;p&gt;In this blog post, I&amp;rsquo;ll share some of the interesting and unexpected things I came across on the internet in 2020. Without further ado, here are the 25 things that stood out to me.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?app=desktop&amp;amp;v=wh4aWZRtTwU&#34;&gt;Brown is not a color, and there is no brown light 🟤🙅‍♂️🎨.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=csInNn6pfT4&#34;&gt;The temperature and atmospheric pressure on Earth can vary greatly across its surface. However, there are lines around the Earth called Isothermal lines and Isobar lines where the temperature and pressure are the same. These lines are jagged in shape, and they intersect at two points, creating at least two points on Earth that have the exact same temperature and pressure at any given time 🌍.&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

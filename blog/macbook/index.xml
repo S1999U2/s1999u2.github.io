@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>MacBook on S/1999 U 2</title>
-    <link>https://s1999u2.github.io/blog/macbook/</link>
-    <description>Recent content in MacBook on S/1999 U 2</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Sun, 21 May 2023 08:58:00 +0100</lastBuildDate>
-    <atom:link href="https://s1999u2.github.io/blog/macbook/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Optimizing Your Mac</title>
-      <link>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</link>
-      <pubDate>Sun, 21 May 2023 08:58:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</guid>
-      <description>Optimizing Your Mac A few days ago, I set up my newly purchased MacBook. So far, so good, but what does &amp;ldquo;Optimizing Your Mac&amp;rdquo; mean? I certainly didn&amp;rsquo;t notice any decreased performance or battery life, and I have some idea what it might be doing. But wouldn&amp;rsquo;t it be convenient to provide some more details? Or maybe even see what my Mac is doing?&#xA;Optimizing Your Mac. </description>
-    </item>
-  </channel>
+	<channel>
+		<title>MacBook on S/1999 U 2</title>
+		<link>https://s1999u2.github.io/blog/macbook/</link>
+		<description>Recent content in MacBook on S/1999 U 2</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>Copyright © 2022, Stefanus Secundus.</copyright>
+		
+		
+			<lastBuildDate>Sun, 21 May 2023 08:58:00 +0100</lastBuildDate>
+		
+			<atom:link href="https://s1999u2.github.io/blog/macbook/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Optimizing Your Mac</title>
+				<link>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</link>
+				<pubDate>Sun, 21 May 2023 08:58:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/macos_optimizing_mac/</guid>
+				<description>&lt;h1 id=&#34;optimizing-your-mac&#34;&gt;Optimizing Your Mac&lt;/h1&gt;&#xA;&lt;p&gt;A few days ago, I set up my newly purchased MacBook. So far, so good, but what does &amp;ldquo;Optimizing Your Mac&amp;rdquo; mean? I certainly didn&amp;rsquo;t notice any decreased performance or battery life, and I have some idea what it might be doing. But wouldn&amp;rsquo;t it be convenient to provide some more details? Or maybe even see what my Mac is doing?&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/macos_optimizing_mac.png&#34; alt=&#34;Optimizing Your Mac.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Optimizing Your Mac.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+	</channel>
 </rss>

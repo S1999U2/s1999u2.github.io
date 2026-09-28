@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Finance on S/1999 U 2</title>
-    <link>https://s1999u2.github.io/blog/finance/</link>
-    <description>Recent content in Finance on S/1999 U 2</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2023 13:25:00 +0100</lastBuildDate>
-    <atom:link href="https://s1999u2.github.io/blog/finance/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Barclays and the Notch</title>
-      <link>https://s1999u2.github.io/annoyances/barclays_layout/</link>
-      <pubDate>Tue, 11 Jul 2023 13:25:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/barclays_layout/</guid>
-      <description>Barclays and the Notch The iPhone X with the notch was released in November 2017, that&amp;rsquo;s more than 5.5 years ago. Somehow Barclays hasn&amp;rsquo;t gotten the news yet 🙄.&#xA;The Barclays banking app doesn&amp;rsquo;t respect. </description>
-    </item>
-  </channel>
+	<channel>
+		<title>Finance on S/1999 U 2</title>
+		<link>https://s1999u2.github.io/blog/finance/</link>
+		<description>Recent content in Finance on S/1999 U 2</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>Copyright © 2022, Stefanus Secundus.</copyright>
+		
+		
+			<lastBuildDate>Tue, 11 Jul 2023 13:25:00 +0100</lastBuildDate>
+		
+			<atom:link href="https://s1999u2.github.io/blog/finance/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Barclays and the Notch</title>
+				<link>https://s1999u2.github.io/annoyances/barclays_layout/</link>
+				<pubDate>Tue, 11 Jul 2023 13:25:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/barclays_layout/</guid>
+				<description>&lt;h1 id=&#34;barclays-and-the-notch&#34;&gt;Barclays and the Notch&lt;/h1&gt;&#xA;&lt;p&gt;The iPhone X with &lt;a href=&#34;https://www.theverge.com/2017/9/14/16306298/apple-iphone-x-screen-notch&#34;&gt;the notch&lt;/a&gt; was released in November 2017, that&amp;rsquo;s more than 5.5 years ago. Somehow Barclays hasn&amp;rsquo;t gotten the news yet 🙄.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apps/barclays_layout.png&#34; alt=&#34;The Barclays banking app doesn&amp;rsquo;t respect.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;The Barclays banking app doesn&amp;rsquo;t respect.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+	</channel>
 </rss>

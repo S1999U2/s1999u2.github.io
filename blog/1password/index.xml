@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>1Password on S/1999 U 2</title>
-    <link>https://s1999u2.github.io/blog/1password/</link>
-    <description>Recent content in 1Password on S/1999 U 2</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Thu, 02 Feb 2023 13:26:00 +0100</lastBuildDate>
-    <atom:link href="https://s1999u2.github.io/blog/1password/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>1Password 8 is Great</title>
-      <link>https://s1999u2.github.io/annoyances/1password_suggestion/</link>
-      <pubDate>Thu, 02 Feb 2023 13:26:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/1password_suggestion/</guid>
-      <description>1Password 8 is Great Best autofill suggestion ever&#xA;1Password giving useless autofill suggestions. </description>
-    </item>
-  </channel>
+	<channel>
+		<title>1Password on S/1999 U 2</title>
+		<link>https://s1999u2.github.io/blog/1password/</link>
+		<description>Recent content in 1Password on S/1999 U 2</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>Copyright © 2022, Stefanus Secundus.</copyright>
+		
+		
+			<lastBuildDate>Thu, 02 Feb 2023 13:26:00 +0100</lastBuildDate>
+		
+			<atom:link href="https://s1999u2.github.io/blog/1password/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>1Password 8 is Great</title>
+				<link>https://s1999u2.github.io/annoyances/1password_suggestion/</link>
+				<pubDate>Thu, 02 Feb 2023 13:26:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/1password_suggestion/</guid>
+				<description>&lt;h1 id=&#34;1password-8-is-great&#34;&gt;1Password 8 is Great&lt;/h1&gt;&#xA;&lt;p&gt;Best autofill suggestion ever&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apps/1password_suggestion.png&#34; alt=&#34;1Password giving useless autofill suggestions.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;1Password giving useless autofill suggestions.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+	</channel>
 </rss>

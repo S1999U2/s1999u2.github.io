@@ -1,83 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>IOS on S/1999 U 2</title>
-    <link>https://s1999u2.github.io/blog/ios/</link>
-    <description>Recent content in IOS on S/1999 U 2</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Tue, 11 Jul 2023 13:25:00 +0100</lastBuildDate>
-    <atom:link href="https://s1999u2.github.io/blog/ios/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Barclays and the Notch</title>
-      <link>https://s1999u2.github.io/annoyances/barclays_layout/</link>
-      <pubDate>Tue, 11 Jul 2023 13:25:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/barclays_layout/</guid>
-      <description>Barclays and the Notch The iPhone X with the notch was released in November 2017, that&amp;rsquo;s more than 5.5 years ago. Somehow Barclays hasn&amp;rsquo;t gotten the news yet 🙄.&#xA;The Barclays banking app doesn&amp;rsquo;t respect. </description>
-    </item>
-    <item>
-      <title>Apple Weather Location Permissions</title>
-      <link>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</link>
-      <pubDate>Wed, 28 Jun 2023 15:38:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</guid>
-      <description>Apple Weather Location Permissions Steve Jobs, in an interview at the D8 conference in June 2010:&#xA;Privacy means people know what they’re signing up for, in plain English and repeatedly&#xA;Of course, I want to know if an app tracks my location. But isn&amp;rsquo;t this getting a bit excessive? Besides, I&amp;rsquo;m sure I&amp;rsquo;ve already given Weather the Always Allow permission several times.&#xA;Weather has used your location 454 times in the background over the past 3 days.</description>
-    </item>
-    <item>
-      <title>iOS Control Center</title>
-      <link>https://s1999u2.github.io/annoyances/ios_control_center/</link>
-      <pubDate>Wed, 21 Jun 2023 20:00:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/ios_control_center/</guid>
-      <description>Apple Sweats the Details This is on iOS 16.5.1, btw. So we&amp;rsquo;re 15 releases into the iOS 16 cycle.&#xA;15 releases in, iOS 16 is still glitchy. </description>
-    </item>
-    <item>
-      <title>iOS 16.5 is Still Buggy</title>
-      <link>https://s1999u2.github.io/annoyances/ios_16_rotation/</link>
-      <pubDate>Fri, 02 Jun 2023 22:12:32 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/ios_16_rotation/</guid>
-      <description>iOS 16.5 is Still Buggy After 16 years of working (more or less) flawlessly, iOS 16 breaks basic functionalities. With iOS 16.5 we&amp;rsquo;re 8 months into the iOS 16 release&#xA;Screen rotation is still broken in iOS 16.5. </description>
-    </item>
-    <item>
-      <title>Apple&#39;s Privileges</title>
-      <link>https://s1999u2.github.io/annoyances/app_store_ads_4/</link>
-      <pubDate>Tue, 30 May 2023 08:21:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/app_store_ads_4/</guid>
-      <description>Apple&amp;rsquo;s Privileges Since iOS and the App Store are Apple&amp;rsquo;s own platforms it gets special privileges and doesn&amp;rsquo;t have to follow its own rules. Ever seen any third-party app getting such a nice screen asking for permissions?&#xA;And how about the dark pattern highlighting the Enable Notifications…&#xA;Also: Not Now? How about never?&#xA;Apple gets special treatment when asking for permissions. </description>
-    </item>
-    <item>
-      <title>App Store Ads for Installed Apps</title>
-      <link>https://s1999u2.github.io/annoyances/app_store_ads_2/</link>
-      <pubDate>Sun, 26 Mar 2023 14:37:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/app_store_ads_2/</guid>
-      <description>Apple Knows How to Make the App Store a Premium Experience First, Apple is explicitly showing me something I&amp;rsquo;m not looking for.&#xA;Second, Apple knows Audible is already installed and decides to show me the ad anyway.&#xA;Apple Knows How to Make the App Store a Premium Experience. </description>
-    </item>
-    <item>
-      <title>App Store Ads for the Top Result</title>
-      <link>https://s1999u2.github.io/annoyances/app_store_ads_1/</link>
-      <pubDate>Sun, 05 Mar 2023 19:30:03 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/app_store_ads_1/</guid>
-      <description>Ads Are Ruining the App Store Hey, wouldn&amp;rsquo;t it be cool if Apple didn&amp;rsquo;t show the app I&amp;rsquo;m searching for both as a giant ad and as a search result?1&#xA;Ads are ruining Apple&amp;rsquo;s App Store. I understand that Crunchy Bagel, the app developer, is not to blame. I genuinely adore Streaks and all of the other apps they offer. You should definitely check them out.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-    </item>
-    <item>
-      <title>Apple Watch Update</title>
-      <link>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</link>
-      <pubDate>Thu, 23 Feb 2023 20:10:05 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</guid>
-      <description>Apple Watch Update You can resume the download when you are connected to a Wi-Fi network.&#xA;Ookay… So is the Watch app broken and unwilling to update. Or is my iPhone lying to me and I’m not connected to Wi-Fi?&#xA;Apple Watch requires Wi-Fi to update. </description>
-    </item>
-    <item>
-      <title>1Password 8 is Great</title>
-      <link>https://s1999u2.github.io/annoyances/1password_suggestion/</link>
-      <pubDate>Thu, 02 Feb 2023 13:26:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/1password_suggestion/</guid>
-      <description>1Password 8 is Great Best autofill suggestion ever&#xA;1Password giving useless autofill suggestions. </description>
-    </item>
-    <item>
-      <title>ML-based Autocorrect Sucks</title>
-      <link>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</link>
-      <pubDate>Tue, 01 Nov 2022 09:00:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</guid>
-      <description>ML-based Autocorrect Sucks I get wildly wrong predictions since Apple added machine learning-based predictions to its autocorrection/text completion. Why on earth would the German equivalent of „well then it’s…“ logically be completed to „iStateOfMind3“ 🤷? I don’t have an app with that name installed, and as far as I know, I never had one.&#xA;iOS keyboard giving wildly wrong suggestions.. </description>
-    </item>
-  </channel>
+	<channel>
+		<title>IOS on S/1999 U 2</title>
+		<link>https://s1999u2.github.io/blog/ios/</link>
+		<description>Recent content in IOS on S/1999 U 2</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>Copyright © 2022, Stefanus Secundus.</copyright>
+		
+		
+			<lastBuildDate>Tue, 11 Jul 2023 13:25:00 +0100</lastBuildDate>
+		
+			<atom:link href="https://s1999u2.github.io/blog/ios/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Barclays and the Notch</title>
+				<link>https://s1999u2.github.io/annoyances/barclays_layout/</link>
+				<pubDate>Tue, 11 Jul 2023 13:25:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/barclays_layout/</guid>
+				<description>&lt;h1 id=&#34;barclays-and-the-notch&#34;&gt;Barclays and the Notch&lt;/h1&gt;&#xA;&lt;p&gt;The iPhone X with &lt;a href=&#34;https://www.theverge.com/2017/9/14/16306298/apple-iphone-x-screen-notch&#34;&gt;the notch&lt;/a&gt; was released in November 2017, that&amp;rsquo;s more than 5.5 years ago. Somehow Barclays hasn&amp;rsquo;t gotten the news yet 🙄.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apps/barclays_layout.png&#34; alt=&#34;The Barclays banking app doesn&amp;rsquo;t respect.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;The Barclays banking app doesn&amp;rsquo;t respect.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Apple Weather Location Permissions</title>
+				<link>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</link>
+				<pubDate>Wed, 28 Jun 2023 15:38:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/apple_weather_location_privacy/</guid>
+				<description>&lt;h1 id=&#34;apple-weather-location-permissions&#34;&gt;Apple Weather Location Permissions&lt;/h1&gt;&#xA;&lt;p&gt;Steve Jobs, in an interview at the D8 conference in June 2010:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Privacy means people know what they’re signing up for, in plain English and repeatedly&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Of course, I want to know if an app tracks my location. But isn&amp;rsquo;t this getting a bit excessive? Besides, I&amp;rsquo;m sure I&amp;rsquo;ve already given Weather the &lt;em&gt;Always Allow&lt;/em&gt; permission several times.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/apple_weather_location_permissions.png&#34; alt=&#34;Weather has used your location 454 times in the background over the past 3 days.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Weather has used your location 454 times in the background over the past 3 days.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>iOS Control Center</title>
+				<link>https://s1999u2.github.io/annoyances/ios_control_center/</link>
+				<pubDate>Wed, 21 Jun 2023 20:00:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/ios_control_center/</guid>
+				<description>&lt;h1 id=&#34;apple-sweats-the-details&#34;&gt;Apple Sweats the Details&lt;/h1&gt;&#xA;&lt;p&gt;This is on iOS 16.5.1, btw. So we&amp;rsquo;re 15 releases into the iOS 16 cycle.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/ios_control_center.png&#34; alt=&#34;The iOS Control Center is glitching.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;15 releases in, iOS 16 is still glitchy.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>iOS 16.5 is Still Buggy</title>
+				<link>https://s1999u2.github.io/annoyances/ios_16_rotation/</link>
+				<pubDate>Fri, 02 Jun 2023 22:12:32 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/ios_16_rotation/</guid>
+				<description>&lt;h1 id=&#34;ios-165-is-still-buggy&#34;&gt;iOS 16.5 is Still Buggy&lt;/h1&gt;&#xA;&lt;p&gt;After 16 years of working (more or less) flawlessly, iOS 16 breaks basic functionalities. With iOS 16.5 we&amp;rsquo;re 8 months into the iOS 16 release&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/ios_16_rotation_bug.png&#34; alt=&#34;Screen rotation being broken in iOS 16.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Screen rotation is still broken in iOS 16.5.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>Apple&#39;s Privileges</title>
+				<link>https://s1999u2.github.io/annoyances/app_store_ads_4/</link>
+				<pubDate>Tue, 30 May 2023 08:21:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/app_store_ads_4/</guid>
+				<description>&lt;h1 id=&#34;apples-privileges&#34;&gt;Apple&amp;rsquo;s Privileges&lt;/h1&gt;&#xA;&lt;p&gt;Since iOS and the App Store are Apple&amp;rsquo;s own platforms it gets special privileges and doesn&amp;rsquo;t have to follow its own rules.&#xA;Ever seen any third-party app getting such a nice screen asking for permissions?&lt;/p&gt;&#xA;&lt;p&gt;And how about the dark pattern highlighting the &lt;em&gt;Enable Notifications&lt;/em&gt;…&lt;/p&gt;&#xA;&lt;p&gt;Also: &lt;em&gt;Not Now&lt;/em&gt;? How about never?&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/app_store_4.png&#34; alt=&#34;Apple asking for notifications permissions in the App Store.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Apple gets special treatment when asking for permissions.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>App Store Ads for Installed Apps</title>
+				<link>https://s1999u2.github.io/annoyances/app_store_ads_2/</link>
+				<pubDate>Sun, 26 Mar 2023 14:37:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/app_store_ads_2/</guid>
+				<description>&lt;h1 id=&#34;apple-knows-how-to-make-the-app-store-a-premium-experience&#34;&gt;Apple Knows How to Make the App Store a Premium Experience&lt;/h1&gt;&#xA;&lt;p&gt;First, Apple is explicitly showing me something I&amp;rsquo;m &lt;strong&gt;not&lt;/strong&gt; looking for.&lt;/p&gt;&#xA;&lt;p&gt;Second, Apple knows Audible is already installed and decides to show me the ad anyway.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/app_store_2.png&#34; alt=&#34;Apple shows App Store ads for apps already installed on the device.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Apple Knows How to Make the App Store a Premium Experience.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>App Store Ads for the Top Result</title>
+				<link>https://s1999u2.github.io/annoyances/app_store_ads_1/</link>
+				<pubDate>Sun, 05 Mar 2023 19:30:03 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/app_store_ads_1/</guid>
+				<description>&lt;h1 id=&#34;ads-are-ruining-the-app-store&#34;&gt;Ads Are Ruining the App Store&lt;/h1&gt;&#xA;&lt;p&gt;Hey, wouldn&amp;rsquo;t it be cool if Apple didn&amp;rsquo;t show the app I&amp;rsquo;m searching for both as a giant ad and as a search result?&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/app_store_1.png&#34; alt=&#34;Ads are ruining Apple&amp;rsquo;s App Store.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Ads are ruining Apple&amp;rsquo;s App Store.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;I understand that Crunchy Bagel, the app developer, is not to blame. I genuinely adore &lt;a href=&#34;https://streaks.app&#34;&gt;Streaks&lt;/a&gt; and all of the &lt;a href=&#34;https://crunchybagel.com/about/&#34;&gt;other apps&lt;/a&gt; they offer. You should definitely check them out.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Apple Watch Update</title>
+				<link>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</link>
+				<pubDate>Thu, 23 Feb 2023 20:10:05 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/ios_apple_watch_update/</guid>
+				<description>&lt;h1 id=&#34;apple-watch-update&#34;&gt;Apple Watch Update&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;You can resume the download when you are connected to a Wi-Fi network.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Ookay…&#xA;So is the &lt;em&gt;Watch&lt;/em&gt; app broken and unwilling to update. Or is my iPhone lying to me and I’m not connected to Wi-Fi?&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/ios_apple_watch_update.png&#34; alt=&#34;Apple Watch requires Wi-Fi to update.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Apple Watch requires Wi-Fi to update.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>1Password 8 is Great</title>
+				<link>https://s1999u2.github.io/annoyances/1password_suggestion/</link>
+				<pubDate>Thu, 02 Feb 2023 13:26:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/1password_suggestion/</guid>
+				<description>&lt;h1 id=&#34;1password-8-is-great&#34;&gt;1Password 8 is Great&lt;/h1&gt;&#xA;&lt;p&gt;Best autofill suggestion ever&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apps/1password_suggestion.png&#34; alt=&#34;1Password giving useless autofill suggestions.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;1Password giving useless autofill suggestions.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+			<item>
+				<title>ML-based Autocorrect Sucks</title>
+				<link>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</link>
+				<pubDate>Tue, 01 Nov 2022 09:00:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/ios_autocorrect_1/</guid>
+				<description>&lt;h1 id=&#34;ml-based-autocorrect-sucks&#34;&gt;ML-based Autocorrect Sucks&lt;/h1&gt;&#xA;&lt;p&gt;I get wildly wrong predictions since Apple added machine learning-based predictions to its autocorrection/text completion. Why on earth would the German equivalent of „&lt;em&gt;well then it’s…&lt;/em&gt;“ logically be completed to „iStateOfMind3“ 🤷?&#xA;I don’t have an app with that name installed, and as far as I know, I never had one.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/ios_autocorrect_1.png&#34; alt=&#34;iOS keyboard giving wildly wrong suggestions.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;iOS keyboard giving wildly wrong suggestions.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+	</channel>
 </rss>

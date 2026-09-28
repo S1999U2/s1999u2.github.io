@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>IPad OS on S/1999 U 2</title>
-    <link>https://s1999u2.github.io/blog/ipad-os/</link>
-    <description>Recent content in IPad OS on S/1999 U 2</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2022, Stefanus Secundus.</copyright>
-    <lastBuildDate>Thu, 27 Apr 2023 08:55:00 +0100</lastBuildDate>
-    <atom:link href="https://s1999u2.github.io/blog/ipad-os/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>App Store Dark Patterns</title>
-      <link>https://s1999u2.github.io/annoyances/app_store_ads_3/</link>
-      <pubDate>Thu, 27 Apr 2023 08:55:00 +0100</pubDate>
-      <guid>https://s1999u2.github.io/annoyances/app_store_ads_3/</guid>
-      <description>Services are Apples Next Big Business No, I didn&amp;rsquo;t want notifications the first time you asked. Or the second time. So no, I still don&amp;rsquo;t want any notifications, even if you put them inline with the content.&#xA;Apple sneakily trying to spam me. </description>
-    </item>
-  </channel>
+	<channel>
+		<title>IPad OS on S/1999 U 2</title>
+		<link>https://s1999u2.github.io/blog/ipad-os/</link>
+		<description>Recent content in IPad OS on S/1999 U 2</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>Copyright © 2022, Stefanus Secundus.</copyright>
+		
+		
+			<lastBuildDate>Thu, 27 Apr 2023 08:55:00 +0100</lastBuildDate>
+		
+			<atom:link href="https://s1999u2.github.io/blog/ipad-os/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>App Store Dark Patterns</title>
+				<link>https://s1999u2.github.io/annoyances/app_store_ads_3/</link>
+				<pubDate>Thu, 27 Apr 2023 08:55:00 +0100</pubDate>
+				<guid>https://s1999u2.github.io/annoyances/app_store_ads_3/</guid>
+				<description>&lt;h1 id=&#34;services-are-apples-next-big-business&#34;&gt;&lt;em&gt;Services&lt;/em&gt; are Apples Next Big Business&lt;/h1&gt;&#xA;&lt;p&gt;No, I didn&amp;rsquo;t want notifications the first time you asked. Or the second time. So no, I &lt;em&gt;still&lt;/em&gt; don&amp;rsquo;t want any notifications, even if you put them inline with the content.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://s1999u2.github.io/images/annoyances/apple/app_store_3.png&#34; alt=&#34;Apple asking for notifications in the App Store.&#34;&gt;&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;Apple sneakily trying to spam me.&lt;/em&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+			</item>
+	</channel>
 </rss>
